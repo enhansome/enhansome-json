@@ -1,0 +1,1837 @@
+{
+  "items": [
+    {
+      "description": "Chrome",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON Formatter",
+          "description": "(github) - Makes JSON easy to read. Open source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T16:33:51Z",
+            "owner": "callumlocke",
+            "repo": "json-formatter",
+            "stars": 4127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Viewer",
+          "description": "(github) - It is a Chrome extension for printing JSON and JSONP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-20T05:45:16Z",
+            "owner": "tulios",
+            "repo": "json-viewer",
+            "stars": 3456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Viewer Pro",
+          "description": "(github - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-30T22:25:52Z",
+            "owner": "rbrahul",
+            "repo": "Awesome-JSON-Viewer",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Finder",
+          "description": "(github) - Browse like you do it in Finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-09T12:05:08Z",
+            "owner": "rapee",
+            "repo": "jsonfinder",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discoverable JSON",
+          "description": "(github) - Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-02-20T06:17:32Z",
+            "owner": "noitcudni",
+            "repo": "discoverable-json",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "A lightweight and flexible command-line JSON processor.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gojq",
+              "description": "Pure Go implementation of jq. A bit faster and more portable.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-20T13:29:00Z",
+                "owner": "itchyny",
+                "repo": "gojq",
+                "stars": 3793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jaq",
+              "description": "A jq clone focussed on correctness, speed, and simplicity. Written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-07T13:48:25Z",
+                "owner": "01mf02",
+                "repo": "jaq",
+                "stars": 3705
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:02:39Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fx",
+          "description": "A interactive terminal tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T11:36:44Z",
+            "owner": "antonmedv",
+            "repo": "fx",
+            "stars": 20578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gron",
+          "description": "Convert a JSON file into discrete assignments that are greppable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-31T15:00:47Z",
+            "owner": "tomnomnom",
+            "repo": "gron",
+            "stars": 14500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visidata",
+          "description": "A terminal spreadsheet-like tool for interactively exploring data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T19:14:15Z",
+            "owner": "saulpw",
+            "repo": "visidata",
+            "stars": 9238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jc",
+          "description": "Converts the output of many CLI tools, file-types, and common strings into JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T17:00:49Z",
+            "owner": "kellyjonbrazil",
+            "repo": "jc",
+            "stars": 8663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jid",
+          "description": "Incremental Digger. Drill down JSON interactively by using filtering queries like jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T01:25:08Z",
+            "owner": "simeji",
+            "repo": "jid",
+            "stars": 7133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jo",
+          "description": "A small utility to create JSON objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-20T09:47:47Z",
+            "owner": "jpmens",
+            "repo": "jo",
+            "stars": 4864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsq",
+          "description": "Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-30T14:49:59Z",
+            "owner": "multiprocessio",
+            "repo": "dsq",
+            "stars": 3867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logdy",
+          "description": "jq, tail, less, grep and awk merged together and available in a clean web UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-25T14:43:56Z",
+            "owner": "logdyhq",
+            "repo": "logdy-core",
+            "stars": 2265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsawk",
+          "description": "Like awk, but for JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-31T15:23:11Z",
+            "owner": "micha",
+            "repo": "jsawk",
+            "stars": 1385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oj",
+          "description": "A fast and flexible command line JSON processor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T00:15:32Z",
+            "owner": "ohler55",
+            "repo": "ojg",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiq",
+          "description": "It's with . You can drill down interactively by using filtering queries.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-01-09T17:59:27Z",
+            "owner": "fiatjaf",
+            "repo": "jiq",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jl",
+          "description": "Functional sed for JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haskell",
+            "last_commit": "2022-05-17T07:42:09Z",
+            "owner": "chrisdone-archive",
+            "repo": "jl",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jv",
+          "description": "jv (for jsonviewer) helps you view your JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-10-30T10:53:29Z",
+            "owner": "maxzender",
+            "repo": "jv",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parsrs",
+          "description": "CSV, XML, and data text parsers and generators written in pure POSIX shellscript. Includes and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-18T18:02:04Z",
+            "owner": "ShellShoccar-jpn",
+            "repo": "Parsrs",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsoncat",
+          "description": "Pretty-print Json in terminal with colors and adjusting tabs size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-05T13:59:48Z",
+            "owner": "pantuza",
+            "repo": "jsoncat",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "livejq",
+          "description": "An alternative implementation in rust for continuous parsing without crashing on invalid JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-25T14:30:49Z",
+            "owner": "KunalSin9h",
+            "repo": "livejq",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-dotenv",
+          "description": "Manipulate and extract envfiles in json format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-26T18:33:20Z",
+            "owner": "decryptus",
+            "repo": "json-dotenv",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-search",
+          "description": "A small tool to search for objects/values in json files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T15:32:34Z",
+            "owner": "cosmo-ray",
+            "repo": "json-search",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonskim",
+          "description": "Extract structure by collapsing arrays and truncating strings. LLM-ready output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-29T08:46:06Z",
+            "owner": "rxzzh",
+            "repo": "jsonskim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONKit",
+          "description": "Swiss Army knife: format, validate, query via dot-notation, diff, flatten, convert to CSV, and stats. Zero dependencies, Python 3.10+.",
+          "children": []
+        }
+      ],
+      "title": "Command-line tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON Server",
+          "description": "Get a full fake REST API with zero coding in less than 30 seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T19:40:00Z",
+            "owner": "typicode",
+            "repo": "json-server",
+            "stars": 75698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxDB",
+          "description": "Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:56:25Z",
+            "owner": "pubkey",
+            "repo": "rxdb",
+            "stars": 23335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lowdb",
+          "description": "Flat file database built on lodash API. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T22:36:45Z",
+            "owner": "typicode",
+            "repo": "lowdb",
+            "stars": 22572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kinto",
+          "description": "A lightweight JSON storage service with synchronisation and sharing abilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:23:26Z",
+            "owner": "Kinto",
+            "repo": "kinto",
+            "stars": 4417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lawnchair",
+          "description": "A lightweight clientside document store. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-17T19:39:17Z",
+            "owner": "brianleroux",
+            "repo": "lawnchair",
+            "stars": 2126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EJDB",
+          "description": "Embedded JSON Database engine published under MIT license. (C)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T14:16:31Z",
+            "owner": "Softmotions",
+            "repo": "ejdb",
+            "stars": 1478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONlite",
+          "description": "A simple, self-contained, serverless, zero-configuration, json document store. (Bash)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-03T02:19:46Z",
+            "owner": "nodesocket",
+            "repo": "jsonlite",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON ODM",
+          "description": "Object document mapper for JavaScript to use on the server or in the browser. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-08T13:21:37Z",
+            "owner": "konsultaner",
+            "repo": "jsonOdm",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dyson",
+          "description": "Server for dynamic, fake JSON. (node.js)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-13T22:22:59Z",
+            "owner": "webpro",
+            "repo": "dyson",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonymize",
+          "description": "Reads data from standard input, anonymizes, then writes to standard output.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-06-21T21:48:44Z",
+            "owner": "cameronhunter",
+            "repo": "jsonymize",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Data generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsondiffpatch",
+          "description": "Diff & patch for JavaScript objects. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T22:54:47Z",
+            "owner": "benjamine",
+            "repo": "jsondiffpatch",
+            "stars": 5333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON-Patch",
+          "description": "Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-23T20:48:55Z",
+            "owner": "Starcounter-Jack",
+            "repo": "JSON-Patch",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiff",
+          "description": "JSON Patch and diff based on rfc6902. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-11T11:19:56Z",
+            "owner": "cujojs",
+            "repo": "jiff",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dffptch",
+          "description": "A micro library for diffing and patching using a compact diff format. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-11T04:09:08Z",
+            "owner": "paldepind",
+            "repo": "dffptch",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-patch-php",
+          "description": "implementation of JSON-patch (IETF RFC 6902) (PHP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-02-26T14:06:26Z",
+            "owner": "mikemccabe",
+            "repo": "json-patch-php",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Differencing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NDJSON",
+          "description": "(Newline delimited JSON) - a standard for delimiting JSON in stream protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-20T14:43:02Z",
+            "owner": "ndjson",
+            "repo": "ndjson-spec",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON6",
+          "description": "JSON for Humans (ES6).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-18T05:27:24Z",
+            "owner": "d3x0r",
+            "repo": "JSON6",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequence JSON",
+          "description": "A proposal for a standard way of creating music sequence data in JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T22:28:13Z",
+            "owner": "soundio",
+            "repo": "sequence",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON-stat",
+          "description": "Simple lightweight format for data dissemination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-08T14:36:53Z",
+            "owner": "jsonstat",
+            "repo": "jsonstat",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JackSON: JSON secret keeper",
+          "description": "JSONic way of storing secrets in config file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-29T15:25:19Z",
+            "owner": "rosehgal",
+            "repo": "jackson",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Format Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-formly",
+          "description": "JSON powered / Dynamic forms for Angular",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T20:00:10Z",
+            "owner": "ngx-formly",
+            "repo": "ngx-formly",
+            "stars": 2965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynatable.js",
+          "description": "A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-25T20:46:46Z",
+            "owner": "alfajango",
+            "repo": "jquery-dynatable",
+            "stars": 2752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON editor jQuery plugin",
+          "description": "component for you web apps/pages. (jQuery)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-05T10:36:16Z",
+            "owner": "DavidDurman",
+            "repo": "FlexiJsonEditor",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@textea/json-viewer",
+          "description": "A React component for JSON viewer. (React)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-04T18:17:50Z",
+            "owner": "TexteaInc",
+            "repo": "json-viewer",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Formatter",
+          "description": "Angular directive for collapsible JSON in HTML. (AngularJS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-17T13:42:18Z",
+            "owner": "mohsen1",
+            "repo": "json-formatter",
+            "stars": 370
+          }
+        }
+      ],
+      "title": "Frontend components"
+    },
+    {
+      "description": "C",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jansson",
+          "description": "A C library for encoding, decoding and manipulating data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-09T17:43:34Z",
+            "owner": "akheron",
+            "repo": "jansson",
+            "stars": 3355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-build",
+          "description": "A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-12T04:14:52Z",
+            "owner": "lcsmuller",
+            "repo": "json-build",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ojc",
+          "description": "A fast JSON parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-24T21:40:21Z",
+            "owner": "ohler55",
+            "repo": "ojc",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsonlint",
+          "description": "Parser and validator with a CLI. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-12T19:08:22Z",
+            "owner": "zaach",
+            "repo": "jsonlint",
+            "stars": 1992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Lint",
+          "description": "PHP linter. (PHP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-01T12:42:10Z",
+            "owner": "Seldaek",
+            "repo": "jsonlint",
+            "stars": 1324
+          }
+        }
+      ],
+      "title": "Linters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kwalify",
+          "description": "A parser, schema validator, and data binding tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2017-01-24T16:09:31Z",
+            "owner": "kvs",
+            "repo": "kwalify",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Model",
+          "description": "A lightweight featureful DSL for data modeling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:37:17Z",
+            "owner": "clairey-zx81",
+            "repo": "json-model",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Schema Specifications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TOML",
+          "description": "A minimal configuration file format that's easy to read due to obvious semantics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-03T10:35:59Z",
+            "owner": "toml-lang",
+            "repo": "toml",
+            "stars": 20566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HOCON",
+          "description": "Human-Optimized Config Object Notation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T15:19:54Z",
+            "owner": "lightbend",
+            "repo": "config",
+            "stars": 6312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HCL",
+          "description": "A structured configuration language that is both human and machine friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:32:34Z",
+            "owner": "hashicorp",
+            "repo": "hcl",
+            "stars": 5803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HanSON",
+          "description": "JSON for Humans - with unquoted identifiers, multi-line strings and comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-01T12:56:40Z",
+            "owner": "timjansen",
+            "repo": "hanson",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "μson",
+          "description": "(uson) - a shorthand for JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:29:12Z",
+            "owner": "burningtree",
+            "repo": "uson",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASON",
+          "description": "A semantically complete superset of JSON (draft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-03-07T03:31:51Z",
+            "owner": "sadmac7000",
+            "repo": "libason",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Supersets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSON",
+          "description": "CoffeeScript-Object-Notation. JSON for CoffeeScript objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2026-08-11T20:21:15Z",
+            "owner": "bevry",
+            "repo": "cson",
+            "stars": 1341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSON",
+          "description": "Markdown syntax compatible with describing JSON and JSON Schema.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-06-11T11:51:31Z",
+            "owner": "apiaryio",
+            "repo": "mson",
+            "stars": 899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AXON",
+          "description": "A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-06T15:58:22Z",
+            "owner": "intellimath",
+            "repo": "pyaxon",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Related formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome jq",
+          "description": "A curated list of awesome jq tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-24T09:46:50Z",
+            "owner": "jqlang",
+            "repo": "awesome-jq",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Type-o-rama",
+          "description": "JS type systems interportability, comparison of different JS type systems and conversion between them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-14T10:32:09Z",
+            "owner": "stereobooster",
+            "repo": "type-o-rama",
+            "stars": 247
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON Parsing Test Suite",
+          "description": "A very complete test suite and validation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-22T12:55:41Z",
+            "owner": "nst",
+            "repo": "JSONTestSuite",
+            "stars": 1157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONassert",
+          "description": "Write JSON unit tests in less code. Great for testing REST interfaces. (Java)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-28T18:03:56Z",
+            "owner": "skyscreamer",
+            "repo": "JSONassert",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonUnit",
+          "description": "A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:05:08Z",
+            "owner": "lukas-krecan",
+            "repo": "JsonUnit",
+            "stars": 1003
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "normalizr",
+          "description": "Normalizes nested JSON according to a schema. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-03-19T22:44:12Z",
+            "owner": "paularmstrong",
+            "repo": "normalizr",
+            "stars": 20805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast-xml-parser",
+          "description": "Fast XML to JSON and vice versa javascript/JSON conversion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:15:48Z",
+            "owner": "NaturalIntelligence",
+            "repo": "fast-xml-parser",
+            "stars": 3130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonMapper",
+          "description": "Map nested structures onto PHP classes (PHP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-30T04:12:07Z",
+            "owner": "cweiske",
+            "repo": "jsonmapper",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x2js",
+          "description": "XML to JSON and vice versa javascript conversion functions. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-24T17:21:06Z",
+            "owner": "abdolence",
+            "repo": "x2js",
+            "stars": 1004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmtogeojson",
+          "description": "Converts OSM data to GeoJSON. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-23T02:49:39Z",
+            "owner": "tyrasd",
+            "repo": "osmtogeojson",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONC",
+          "description": "JSON compressor and decompressor. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-11T20:13:20Z",
+            "owner": "tcorral",
+            "repo": "JSONC",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircularJSON",
+          "description": "JSON does not handle circular references. Now it does.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-05-27T19:08:01Z",
+            "owner": "WebReflection",
+            "repo": "circular-json",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json2json",
+          "description": "Transform (reformat) structures from one to another. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2021-07-26T10:15:05Z",
+            "owner": "joelvh",
+            "repo": "json2json",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trans",
+          "description": "The ultimate object transformer. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-21T07:56:51Z",
+            "owner": "gabesoft",
+            "repo": "trans",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SassyJSON",
+          "description": "Sass-powered API. (Sass)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2021-03-05T13:41:06Z",
+            "owner": "KittyGiraudel",
+            "repo": "SassyJSON",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON-populate",
+          "description": "Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-02T20:31:30Z",
+            "owner": "eiriklv",
+            "repo": "json-populate",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-transforms",
+          "description": "A recursive, pattern-matching, approach to transforming JSON structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-27T08:22:09Z",
+            "owner": "ColinEberhardt",
+            "repo": "json-transforms",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sawmill",
+          "description": "JSON transformation library (Java)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-22T13:07:43Z",
+            "owner": "logzio",
+            "repo": "sawmill",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nimnjs",
+          "description": "JSON to nimn bidirectional converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-14T11:49:28Z",
+            "owner": "NaturalIntelligence",
+            "repo": "nimnjs",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fanci",
+          "description": "Extract, rename and transform JSON based on a template. (node.js)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-06T12:16:28Z",
+            "owner": "liip",
+            "repo": "fanci",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsontl",
+          "description": "allow transformation using a JSON-based transformation language. (node.js)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-30T00:50:53Z",
+            "owner": "DoublePrecisionSoftware",
+            "repo": "jsontl",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-sharp",
+          "description": "Javascript tool to process operations on pure JSON objects. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-28T17:01:43Z",
+            "owner": "globocom",
+            "repo": "json-sharp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stylops",
+          "description": "CSS subset to JSON conversion. (node.js)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-12T01:26:02Z",
+            "owner": "cruel-intentions",
+            "repo": "stylops",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Transformations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dasel",
+          "description": "Query and update data structures using selectors from the command line. Comparable to jq / yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T00:44:34Z",
+            "owner": "TomWright",
+            "repo": "dasel",
+            "stars": 8016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONSelect",
+          "description": "CSS-like selectors. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-31T16:43:14Z",
+            "owner": "lloyd",
+            "repo": "JSONSelect",
+            "stars": 1589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Mask",
+          "description": "Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-18T21:16:09Z",
+            "owner": "nemtsov",
+            "repo": "json-mask",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "searchjs",
+          "description": "A library for filtering based on a json SQL-like language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-19T16:10:55Z",
+            "owner": "deitch",
+            "repo": "searchjs",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-rel",
+          "description": "Transparent references in JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-05T10:36:18Z",
+            "owner": "slurmulon",
+            "repo": "json-where",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Queries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON Editor",
+          "description": "JSON Schema Based Editor. (jQuery)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-18T13:46:26Z",
+            "owner": "jdorn",
+            "repo": "json-editor",
+            "stars": 5819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-schema-form",
+          "description": "Generate forms. (AngularJS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-20T16:22:31Z",
+            "owner": "json-schema-form",
+            "repo": "angular-schema-form",
+            "stars": 2454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Schema View",
+          "description": "An AngularJS directive for rendering JSON Schema in HTML (AngularJS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-13T19:03:46Z",
+            "owner": "mohsen1",
+            "repo": "json-schema-view",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular JSON Schema Form",
+          "description": "Angular directive for making forms out of JSON Schema. (AngularJS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-12T13:15:05Z",
+            "owner": "mohsen1",
+            "repo": "angular-json-schema-form",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "JSON Schema Frontend components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsonschema2pojo",
+          "description": "Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-02T01:04:21Z",
+            "owner": "joelittlejohn",
+            "repo": "jsonschema2pojo",
+            "stars": 6378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Schema + Faker",
+          "description": "Fake your schemas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T07:34:04Z",
+            "owner": "json-schema-faker",
+            "repo": "json-schema-faker",
+            "stars": 3447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prmd",
+          "description": "Tools and doc generation for HTTP APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-02-06T16:33:27Z",
+            "owner": "interagent",
+            "repo": "prmd",
+            "stars": 2092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Schema $Ref Parser",
+          "description": "Parse, resolve, and dereference JSON Schema $ref pointers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T00:29:17Z",
+            "owner": "APIDevTools",
+            "repo": "json-schema-ref-parser",
+            "stars": 1112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generate-schema",
+          "description": "Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-30T21:06:17Z",
+            "owner": "nijikokun",
+            "repo": "generate-schema",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docson",
+          "description": "Documentation for your types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-05T00:43:36Z",
+            "owner": "lbovet",
+            "repo": "docson",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-schema",
+          "description": "A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-23T19:37:02Z",
+            "owner": "molnarg",
+            "repo": "js-schema",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Schema CLI",
+          "description": "Command-line interface for formatting, linting, testing, bundling, and validating schema files for local development and CI/CD pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:03:46Z",
+            "owner": "sourcemeta",
+            "repo": "jsonschema",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orderly JSON",
+          "description": "A textual format for describing JSON compiled into JSONSchema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2010-03-10T21:20:35Z",
+            "owner": "lloyd",
+            "repo": "orderly",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matic",
+          "description": "Build tool for generating HTML documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-14T12:27:28Z",
+            "owner": "mattyod",
+            "repo": "matic",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DLL.js",
+          "description": "Gets you a JSON Schema from PostgreSQL or SQLite3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-22T22:35:29Z",
+            "owner": "moll",
+            "repo": "js-ddl",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "JSON Schema Tools"
+    },
+    {
+      "description": "Javascript and Node.js",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ajv",
+          "description": "The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T07:38:47Z",
+            "owner": "ajv-validator",
+            "repo": "ajv",
+            "stars": 14802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tv4",
+          "description": "Tiny Validator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-12T20:22:58Z",
+            "owner": "geraintluff",
+            "repo": "tv4",
+            "stars": 1166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-my-json-valid",
+          "description": "A validator that uses code generation to be extremely fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-16T16:33:01Z",
+            "owner": "mafintosh",
+            "repo": "is-my-json-valid",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-schema-benchmark",
+          "description": "Performance benchmark for Node.js validators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-04T03:06:14Z",
+            "owner": "ebdrup",
+            "repo": "json-schema-benchmark",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "z-schema",
+          "description": "validator written in JavaScript for NodeJS and Browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:53:22Z",
+            "owner": "zaggino",
+            "repo": "z-schema",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jjv",
+          "description": "Javascript Library for Schema Validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-06T19:00:48Z",
+            "owner": "acornejo",
+            "repo": "jjv",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsck",
+          "description": "JSON Schema Compiled checK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-07-21T19:54:54Z",
+            "owner": "pandastrike",
+            "repo": "jsck",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsen",
+          "description": "A validator built for speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-16T22:05:17Z",
+            "owner": "bugventure",
+            "repo": "jsen",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "themis",
+          "description": "A blazing fast validator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2015-10-27T03:50:01Z",
+            "owner": "playlyfe",
+            "repo": "themis",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "request-validator",
+          "description": "Flexible request validator middleware for express and connect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-22T12:56:44Z",
+            "owner": "bugventure",
+            "repo": "request-validator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "JSON Schema Validators"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:35.217Z",
+    "original_repository": "burningtree/awesome-json",
+    "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
+    "enhanced_repository": "enhansome/enhansome-json",
+    "enhanced_repository_description": null,
+    "title": "Awesome JSON with stars"
+  }
+}
