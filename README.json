@@ -1,7 +1,43 @@
 {
   "items": [
     {
-      "description": "Chrome",
+      "description": "OS X",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSONExport",
+          "description": "convert a object to a class of one of the currently supported languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26409521,
+            "language": "Swift",
+            "last_commit": "2023-10-22T07:25:07Z",
+            "owner": "Ahmed-Ali",
+            "repo": "JSONExport",
+            "stars": 4806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual JSON",
+          "description": "simple JSON pretty-viewer for Mac OS X. (inactive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2962726,
+            "language": "Objective-C",
+            "last_commit": "2016-04-11T08:34:10Z",
+            "owner": "youknowone",
+            "repo": "VisualJSON",
+            "stars": 304
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "Chrome\nFirefox\nSafari",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5304488,
             "language": "TypeScript",
             "last_commit": "2026-02-26T16:33:51Z",
             "owner": "callumlocke",
@@ -24,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12635853,
             "language": "HTML",
             "last_commit": "2024-08-20T05:45:16Z",
             "owner": "tulios",
@@ -38,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80253844,
             "language": "JavaScript",
             "last_commit": "2026-08-17T20:08:02Z",
             "owner": "rbrahul",
@@ -52,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8088498,
             "language": "JavaScript",
             "last_commit": "2022-06-09T12:05:08Z",
             "owner": "rapee",
@@ -66,18 +106,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330101427,
             "language": "Clojure",
             "last_commit": "2021-02-20T06:17:32Z",
             "owner": "noitcudni",
             "repo": "discoverable-json",
             "stars": 3
           }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONView",
+          "description": "(github) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20739257,
+            "language": "CSS",
+            "last_commit": "2025-06-01T00:10:58Z",
+            "owner": "acrogenesis",
+            "repo": "jsonview-safari",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONAce",
+          "description": "(github) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27138057,
+            "language": "JavaScript",
+            "last_commit": "2025-06-01T00:12:12Z",
+            "owner": "acrogenesis",
+            "repo": "JSONAce",
+            "stars": 71
+          }
         }
       ],
       "title": "Browser Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -91,6 +162,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 180954037,
                 "language": "Go",
                 "last_commit": "2026-07-20T13:29:00Z",
                 "owner": "itchyny",
@@ -105,21 +177,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 318753449,
                 "language": "Rust",
-                "last_commit": "2026-08-15T10:06:42Z",
+                "last_commit": "2026-08-19T10:39:13Z",
                 "owner": "01mf02",
                 "repo": "jaq",
-                "stars": 3716
+                "stars": 3717
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 5101141,
             "language": "C",
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35460
+            "stars": 35470
           }
         },
         {
@@ -129,11 +203,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118945118,
             "language": "Go",
             "last_commit": "2026-07-28T11:36:44Z",
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20583
+            "stars": 20584
           }
         },
         {
@@ -143,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5724223,
             "language": "Go",
             "last_commit": "2025-05-31T15:00:47Z",
             "owner": "tomnomnom",
@@ -157,11 +233,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72070681,
             "language": "Python",
             "last_commit": "2026-08-15T18:52:44Z",
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9247
+            "stars": 9248
           }
         },
         {
@@ -171,11 +248,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215404927,
             "language": "Python",
             "last_commit": "2026-06-18T17:00:49Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8665
+            "stars": 8666
           }
         },
         {
@@ -185,6 +263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60534669,
             "language": "Go",
             "last_commit": "2026-08-02T01:25:08Z",
             "owner": "simeji",
@@ -199,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53133613,
             "language": "C",
             "last_commit": "2025-06-20T09:47:47Z",
             "owner": "jpmens",
@@ -213,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 446613820,
             "language": "Go",
             "last_commit": "2023-09-30T14:49:59Z",
             "owner": "multiprocessio",
@@ -227,11 +308,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 747929369,
             "language": "Go",
             "last_commit": "2025-08-25T14:43:56Z",
             "owner": "logdyhq",
             "repo": "logdy-core",
-            "stars": 2271
+            "stars": 2272
           }
         },
         {
@@ -241,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209968,
             "language": "Shell",
             "last_commit": "2021-08-31T15:23:11Z",
             "owner": "micha",
@@ -255,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255132844,
             "language": "Go",
             "last_commit": "2026-08-08T00:15:32Z",
             "owner": "ohler55",
@@ -269,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75506949,
             "language": "Go",
             "last_commit": "2023-01-09T17:59:27Z",
             "owner": "fiatjaf",
@@ -283,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97342210,
             "language": "Haskell",
             "last_commit": "2022-05-17T07:42:09Z",
             "owner": "chrisdone-archive",
@@ -297,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93555111,
             "language": "Go",
             "last_commit": "2017-10-30T10:53:29Z",
             "owner": "maxzender",
@@ -311,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24538792,
             "language": "Shell",
             "last_commit": "2026-06-18T18:02:04Z",
             "owner": "ShellShoccar-jpn",
@@ -325,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42481968,
             "language": "C",
             "last_commit": "2020-10-05T13:59:48Z",
             "owner": "pantuza",
@@ -339,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672550293,
             "language": "Rust",
             "last_commit": "2024-08-25T14:30:49Z",
             "owner": "KunalSin9h",
@@ -353,6 +443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173406489,
             "language": "Python",
             "last_commit": "2023-04-26T18:33:20Z",
             "owner": "decryptus",
@@ -367,6 +458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326179672,
             "language": "C",
             "last_commit": "2026-08-10T15:32:34Z",
             "owner": "cosmo-ray",
@@ -381,24 +473,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124402729,
             "language": "JavaScript",
             "last_commit": "2025-12-29T08:46:06Z",
             "owner": "rxzzh",
             "repo": "jsonskim",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "JSONKit",
-          "description": "Swiss Army knife: format, validate, query via dot-notation, diff, flatten, convert to CSV, and stats. Zero dependencies, Python 3.10+.",
-          "children": []
         }
       ],
       "title": "Command-line tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -407,11 +494,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14747598,
             "language": "JavaScript",
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75689
+            "stars": 75691
           }
         },
         {
@@ -421,11 +509,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:42:19Z",
+            "last_commit": "2026-08-19T12:00:00Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23353
+            "stars": 23354
           }
         },
         {
@@ -435,11 +524,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18351848,
             "language": "JavaScript",
             "last_commit": "2026-03-27T22:36:45Z",
             "owner": "typicode",
             "repo": "lowdb",
-            "stars": 22571
+            "stars": 22572
           }
         },
         {
@@ -449,6 +539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31315021,
             "language": "Python",
             "last_commit": "2026-08-14T06:42:31Z",
             "owner": "Kinto",
@@ -463,6 +554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246773,
             "language": "JavaScript",
             "last_commit": "2020-05-17T19:39:17Z",
             "owner": "brianleroux",
@@ -477,11 +569,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6427744,
             "language": "C",
-            "last_commit": "2026-08-16T14:51:29Z",
+            "last_commit": "2026-08-19T12:14:39Z",
             "owner": "Softmotions",
             "repo": "ejdb",
-            "stars": 1477
+            "stars": 1478
           }
         },
         {
@@ -491,6 +584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42909809,
             "language": "Shell",
             "last_commit": "2025-03-03T02:19:46Z",
             "owner": "nodesocket",
@@ -505,6 +599,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31983550,
             "language": "JavaScript",
             "last_commit": "2023-03-08T13:21:37Z",
             "owner": "konsultaner",
@@ -516,7 +611,7 @@
       "title": "Databases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -525,6 +620,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7587268,
             "language": "JavaScript",
             "last_commit": "2023-04-13T22:22:59Z",
             "owner": "webpro",
@@ -539,6 +635,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24751284,
             "language": "JavaScript",
             "last_commit": "2015-06-21T21:48:44Z",
             "owner": "cameronhunter",
@@ -550,7 +647,7 @@
       "title": "Data generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -559,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2624312,
             "language": "TypeScript",
             "last_commit": "2026-05-14T22:54:47Z",
             "owner": "benjamine",
@@ -573,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8818872,
             "language": "JavaScript",
             "last_commit": "2025-10-23T20:48:55Z",
             "owner": "Starcounter-Jack",
@@ -587,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18996619,
             "language": "JavaScript",
             "last_commit": "2024-08-11T11:19:56Z",
             "owner": "cujojs",
@@ -601,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27598070,
             "language": "JavaScript",
             "last_commit": "2017-01-11T04:09:08Z",
             "owner": "paldepind",
@@ -615,6 +716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4902346,
             "language": "PHP",
             "last_commit": "2019-02-26T14:06:26Z",
             "owner": "mikemccabe",
@@ -626,7 +728,7 @@
       "title": "Differencing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -635,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11203131,
             "language": null,
             "last_commit": "2022-10-20T14:43:02Z",
             "owner": "ndjson",
@@ -649,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97155712,
             "language": "JavaScript",
             "last_commit": "2021-10-18T05:27:24Z",
             "owner": "d3x0r",
@@ -663,6 +767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27285406,
             "language": "JavaScript",
             "last_commit": "2026-07-29T22:28:13Z",
             "owner": "soundio",
@@ -677,6 +782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14665852,
             "language": null,
             "last_commit": "2021-09-08T14:36:53Z",
             "owner": "jsonstat",
@@ -691,6 +797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138967798,
             "language": "Python",
             "last_commit": "2020-12-29T15:25:19Z",
             "owner": "rosehgal",
@@ -702,7 +809,7 @@
       "title": "Format Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -711,6 +818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33647441,
             "language": "TypeScript",
             "last_commit": "2026-08-17T17:07:24Z",
             "owner": "ngx-formly",
@@ -725,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2913117,
             "language": "JavaScript",
             "last_commit": "2022-02-25T20:46:46Z",
             "owner": "alfajango",
@@ -739,6 +848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2512872,
             "language": "JavaScript",
             "last_commit": "2019-02-05T10:36:16Z",
             "owner": "DavidDurman",
@@ -753,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523772558,
             "language": "TypeScript",
             "last_commit": "2025-07-04T18:17:50Z",
             "owner": "TexteaInc",
@@ -767,6 +878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22541875,
             "language": "JavaScript",
             "last_commit": "2020-10-17T13:42:18Z",
             "owner": "mohsen1",
@@ -778,7 +890,7 @@
       "title": "Frontend components"
     },
     {
-      "description": "C",
+      "description": "C\nC++\nClojure\nFortran\nGo\nHaskell\nJava\nJavascript\nObjective-C\nPerl\nPL/SQL\nPHP\nPython\nRuby\nReact\n.NET\nScala\nShell\nSwift",
       "items": [
         {
           "node_type": "item",
@@ -787,11 +899,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183362,
             "language": "C",
             "last_commit": "2026-07-09T17:43:34Z",
             "owner": "akheron",
             "repo": "jansson",
-            "stars": 3355
+            "stars": 3356
           }
         },
         {
@@ -801,6 +914,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452311367,
             "language": "C",
             "last_commit": "2025-04-12T04:14:52Z",
             "owner": "lcsmuller",
@@ -815,18 +929,499 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20074732,
             "language": "C",
             "last_commit": "2024-04-24T21:40:21Z",
             "owner": "ohler55",
             "repo": "ojc",
             "stars": 38
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Nlohmann JSON",
+          "description": "A C++11 header-only class.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11171548,
+            "language": "C++",
+            "last_commit": "2026-08-18T19:47:22Z",
+            "owner": "nlohmann",
+            "repo": "json",
+            "stars": 50399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simdjson",
+          "description": "Parsing gigabytes of JSON per second.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126412363,
+            "language": "C++",
+            "last_commit": "2026-08-18T17:49:22Z",
+            "owner": "simdjson",
+            "repo": "simdjson",
+            "stars": 24162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RapidJSON",
+          "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17391973,
+            "language": "C++",
+            "last_commit": "2025-02-05T13:28:08Z",
+            "owner": "Tencent",
+            "repo": "rapidjson",
+            "stars": 15113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArduinoJson",
+          "description": "An efficient library for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15802263,
+            "language": "C++",
+            "last_commit": "2026-08-15T10:39:44Z",
+            "owner": "bblanchon",
+            "repo": "ArduinoJson",
+            "stars": 7204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json11",
+          "description": "A tiny library for C++11.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 12655652,
+            "language": "C++",
+            "last_commit": "2020-03-25T23:27:28Z",
+            "owner": "dropbox",
+            "repo": "json11",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON++",
+          "description": "A self contained Flex/Bison parser for C++11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14464447,
+            "language": "C++",
+            "last_commit": "2016-06-15T04:23:03Z",
+            "owner": "tunnuz",
+            "repo": "json",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qjson",
+          "description": "A fast library for C++17 that is header-only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032907399,
+            "language": "C++",
+            "last_commit": "2025-09-05T04:51:20Z",
+            "owner": "qinyonghang",
+            "repo": "json",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast JSON Processor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2700474,
+            "language": "Java",
+            "last_commit": "2026-07-29T08:04:40Z",
+            "owner": "alibaba",
+            "repo": "fastjson",
+            "stars": 25600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gson",
+          "description": "A Java library to convert JSON to Java objects and vice-versa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32538871,
+            "language": "Java",
+            "last_commit": "2026-08-14T19:50:04Z",
+            "owner": "google",
+            "repo": "gson",
+            "stars": 24226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moshi",
+          "description": "A modern JSON library for Android and Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22789601,
+            "language": "Kotlin",
+            "last_commit": "2026-08-17T06:07:01Z",
+            "owner": "square",
+            "repo": "moshi",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jackson",
+          "description": "A multi-purpose Java library for processing JSON data format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2604249,
+            "language": null,
+            "last_commit": "2026-07-17T03:05:02Z",
+            "owner": "FasterXML",
+            "repo": "jackson",
+            "stars": 9800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON-java",
+          "description": "A reference implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187853,
+            "language": "Java",
+            "last_commit": "2026-08-14T16:15:16Z",
+            "owner": "stleary",
+            "repo": "JSON-java",
+            "stars": 4717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsl-json",
+          "description": "A very fast streaming JSON library. Operates on byte arrays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45384078,
+            "language": "Java",
+            "last_commit": "2026-06-29T12:28:41Z",
+            "owner": "ngs-doo",
+            "repo": "dsl-json",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mjson",
+          "description": "Lean JSON Library for Java, with a compact, elegant API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17200490,
+            "language": "Java",
+            "last_commit": "2025-06-28T06:02:42Z",
+            "owner": "bolerio",
+            "repo": "mjson",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "essential-json",
+          "description": "A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230427750,
+            "language": "Java",
+            "last_commit": "2022-08-30T17:23:39Z",
+            "owner": "arkanovicz",
+            "repo": "essential-json",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON-js",
+          "description": "JSON in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1092277,
+            "language": "JavaScript",
+            "last_commit": "2023-05-10T23:28:16Z",
+            "owner": "douglascrockford",
+            "repo": "JSON-js",
+            "stars": 8717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oboe.js",
+          "description": "A streaming approach, speeds up web applications by providing parsed objects before the response completes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8710850,
+            "language": "JavaScript",
+            "last_commit": "2025-11-17T12:34:01Z",
+            "owner": "jimhigson",
+            "repo": "oboe.js",
+            "stars": 4817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonHilo",
+          "description": "Minimal lossless parse event streaming, akin to SAX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378699055,
+            "language": "JavaScript",
+            "last_commit": "2025-08-24T21:28:21Z",
+            "owner": "xtao-org",
+            "repo": "jsonhilo",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONKit",
+          "description": "Objective-C library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 800294,
+            "language": "Objective-C",
+            "last_commit": "2020-11-22T17:51:42Z",
+            "owner": "johnezang",
+            "repo": "JSONKit",
+            "stars": 6176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SBJson",
+          "description": "Parse one or more chunks of data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721040,
+            "language": "Objective-C",
+            "last_commit": "2026-05-18T09:03:38Z",
+            "owner": "SBJson",
+            "repo": "SBJson",
+            "stars": 3717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webmozart JSON",
+          "description": "A robust decoder/encoder with support for schema validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26802612,
+            "language": "PHP",
+            "last_commit": "2021-03-06T12:39:57Z",
+            "owner": "webmozart",
+            "repo": "json",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOON PHP Lite",
+          "description": "Lightweight TOON encoder/decoder for human-readable, LLM-friendly structured data. (PHP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095532215,
+            "language": "PHP",
+            "last_commit": "2025-11-19T11:42:08Z",
+            "owner": "manojrammurthy",
+            "repo": "toon-php-lite",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oj",
+          "description": "A fast JSON parser and Object marshaller as a Ruby gem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3468618,
+            "language": "C",
+            "last_commit": "2026-08-13T16:41:39Z",
+            "owner": "ohler55",
+            "repo": "oj",
+            "stars": 3225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiJSON",
+          "description": "A generic swappable back-end for JSON handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718963,
+            "language": "Ruby",
+            "last_commit": "2025-06-24T19:55:37Z",
+            "owner": "intridea",
+            "repo": "multi_json",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonfx",
+          "description": "serialization framework for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822377,
+            "language": "C#",
+            "last_commit": "2016-12-24T03:24:49Z",
+            "owner": "jsonfx",
+            "repo": "jsonfx",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonapi-consumer",
+          "description": "Client framework for consuming JSONAPI based APIs on the JSON API standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121119927,
+            "language": "C#",
+            "last_commit": "2022-12-07T18:40:05Z",
+            "owner": "OKTAYKIR",
+            "repo": "jsonapi-consumer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circe",
+          "description": "Yet another JSON library for Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40011080,
+            "language": "Scala",
+            "last_commit": "2026-07-23T08:36:23Z",
+            "owner": "circe",
+            "repo": "circe",
+            "stars": 2541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spray-json",
+          "description": "A lightweight, clean and simple implementation in Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1713422,
+            "language": "Scala",
+            "last_commit": "2024-01-10T20:17:55Z",
+            "owner": "spray",
+            "repo": "spray-json",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsoniter-scala",
+          "description": "Scala macros for compile-time generation of ultra-fast JSON codecs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104897792,
+            "language": "Scala",
+            "last_commit": "2026-08-15T11:14:16Z",
+            "owner": "plokhotnyuk",
+            "repo": "jsoniter-scala",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-jsonapi",
+          "description": "Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45837479,
+            "language": "Scala",
+            "last_commit": "2018-12-28T12:29:57Z",
+            "owner": "scala-jsonapi",
+            "repo": "scala-jsonapi",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftyJSON",
+          "description": "The better way to deal with data in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20965586,
+            "language": "Swift",
+            "last_commit": "2026-08-18T07:07:07Z",
+            "owner": "SwiftyJSON",
+            "repo": "SwiftyJSON",
+            "stars": 22950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yyjson",
+          "description": "High performance parser and serializer in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302298095,
+            "language": "C",
+            "last_commit": "2026-07-22T17:31:33Z",
+            "owner": "ibireme",
+            "repo": "yyjson",
+            "stars": 3841
+          }
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -835,6 +1430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560990,
             "language": "JavaScript",
             "last_commit": "2022-07-12T19:08:22Z",
             "owner": "zaach",
@@ -849,6 +1445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2973808,
             "language": "PHP",
             "last_commit": "2026-08-01T12:42:10Z",
             "owner": "Seldaek",
@@ -860,7 +1457,7 @@
       "title": "Linters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -869,6 +1466,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 390544,
             "language": "Ruby",
             "last_commit": "2017-01-24T16:09:31Z",
             "owner": "kvs",
@@ -883,8 +1481,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636602722,
             "language": "C",
-            "last_commit": "2026-08-18T12:12:33Z",
+            "last_commit": "2026-08-19T08:37:50Z",
             "owner": "clairey-zx81",
             "repo": "json-model",
             "stars": 8
@@ -894,7 +1493,7 @@
       "title": "Schema Specifications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -903,11 +1502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8385616,
             "language": null,
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20577
+            "stars": 20578
           }
         },
         {
@@ -917,6 +1517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2923236,
             "language": "Java",
             "last_commit": "2026-07-01T15:19:54Z",
             "owner": "lightbend",
@@ -931,6 +1532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22485114,
             "language": "Go",
             "last_commit": "2026-08-13T23:49:42Z",
             "owner": "hashicorp",
@@ -945,6 +1547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12094939,
             "language": "JavaScript",
             "last_commit": "2023-02-01T12:56:40Z",
             "owner": "timjansen",
@@ -959,6 +1562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33459252,
             "language": "JavaScript",
             "last_commit": "2022-12-30T18:29:12Z",
             "owner": "burningtree",
@@ -973,6 +1577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9230357,
             "language": "C",
             "last_commit": "2015-03-07T03:31:51Z",
             "owner": "sadmac7000",
@@ -984,7 +1589,7 @@
       "title": "Supersets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -993,6 +1598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1835751,
             "language": "CoffeeScript",
             "last_commit": "2026-08-11T20:21:15Z",
             "owner": "bevry",
@@ -1007,6 +1613,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18439299,
             "language": null,
             "last_commit": "2018-06-11T11:51:31Z",
             "owner": "apiaryio",
@@ -1021,6 +1628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12541532,
             "language": "Python",
             "last_commit": "2016-08-06T15:58:22Z",
             "owner": "intellimath",
@@ -1032,7 +1640,7 @@
       "title": "Related formats"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1041,6 +1649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121669629,
             "language": null,
             "last_commit": "2026-08-17T09:15:04Z",
             "owner": "jqlang",
@@ -1055,6 +1664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117700696,
             "language": null,
             "last_commit": "2022-11-14T10:32:09Z",
             "owner": "stereobooster",
@@ -1066,7 +1676,7 @@
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1075,6 +1685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71723822,
             "language": "C++",
             "last_commit": "2024-11-22T12:55:41Z",
             "owner": "nst",
@@ -1089,6 +1700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3329435,
             "language": "Java",
             "last_commit": "2024-07-28T18:03:56Z",
             "owner": "skyscreamer",
@@ -1103,8 +1715,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3296177,
             "language": "Java",
-            "last_commit": "2026-08-18T19:57:30Z",
+            "last_commit": "2026-08-19T05:27:23Z",
             "owner": "lukas-krecan",
             "repo": "JsonUnit",
             "stars": 1003
@@ -1114,7 +1727,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1123,6 +1736,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23141830,
             "language": "JavaScript",
             "last_commit": "2022-03-19T22:44:12Z",
             "owner": "paularmstrong",
@@ -1137,8 +1751,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80317682,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T04:17:26Z",
+            "last_commit": "2026-08-19T10:19:16Z",
             "owner": "NaturalIntelligence",
             "repo": "fast-xml-parser",
             "stars": 3131
@@ -1151,6 +1766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16281650,
             "language": "PHP",
             "last_commit": "2026-06-30T04:12:07Z",
             "owner": "cweiske",
@@ -1165,6 +1781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7830856,
             "language": "JavaScript",
             "last_commit": "2022-01-24T17:21:06Z",
             "owner": "abdolence",
@@ -1179,6 +1796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13296600,
             "language": "JavaScript",
             "last_commit": "2026-04-23T02:49:39Z",
             "owner": "tyrasd",
@@ -1193,6 +1811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13839761,
             "language": "JavaScript",
             "last_commit": "2018-12-11T20:13:20Z",
             "owner": "tcorral",
@@ -1207,6 +1826,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8754428,
             "language": "JavaScript",
             "last_commit": "2019-05-27T19:08:01Z",
             "owner": "WebReflection",
@@ -1221,6 +1841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2968409,
             "language": "CoffeeScript",
             "last_commit": "2021-07-26T10:15:05Z",
             "owner": "joelvh",
@@ -1235,6 +1856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13666876,
             "language": "JavaScript",
             "last_commit": "2015-12-21T07:56:51Z",
             "owner": "gabesoft",
@@ -1249,6 +1871,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15866905,
             "language": "SCSS",
             "last_commit": "2021-03-05T13:41:06Z",
             "owner": "KittyGiraudel",
@@ -1263,6 +1886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97383508,
             "language": "JavaScript",
             "last_commit": "2022-09-02T20:31:30Z",
             "owner": "eiriklv",
@@ -1277,6 +1901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61737848,
             "language": "JavaScript",
             "last_commit": "2024-08-27T08:22:09Z",
             "owner": "ColinEberhardt",
@@ -1291,6 +1916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69273058,
             "language": "Java",
             "last_commit": "2026-07-22T13:07:43Z",
             "owner": "logzio",
@@ -1305,6 +1931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122699409,
             "language": "JavaScript",
             "last_commit": "2023-10-14T11:49:28Z",
             "owner": "NaturalIntelligence",
@@ -1319,6 +1946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20078894,
             "language": "JavaScript",
             "last_commit": "2017-07-06T12:16:28Z",
             "owner": "liip",
@@ -1333,6 +1961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25701454,
             "language": "JavaScript",
             "last_commit": "2015-03-30T00:50:53Z",
             "owner": "DoublePrecisionSoftware",
@@ -1347,6 +1976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43568048,
             "language": "JavaScript",
             "last_commit": "2017-06-28T17:01:43Z",
             "owner": "globocom",
@@ -1361,6 +1991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328255546,
             "language": "JavaScript",
             "last_commit": "2026-07-12T01:26:02Z",
             "owner": "cruel-intentions",
@@ -1372,7 +2003,7 @@
       "title": "Transformations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1381,11 +2012,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297615696,
             "language": "Go",
             "last_commit": "2026-08-16T19:25:05Z",
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8018
+            "stars": 8019
           }
         },
         {
@@ -1395,6 +2027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1743096,
             "language": "JavaScript",
             "last_commit": "2021-08-31T16:43:14Z",
             "owner": "lloyd",
@@ -1409,6 +2042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11362272,
             "language": "JavaScript",
             "last_commit": "2026-01-18T21:16:09Z",
             "owner": "nemtsov",
@@ -1423,6 +2057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2190636,
             "language": "JavaScript",
             "last_commit": "2025-02-19T16:10:55Z",
             "owner": "deitch",
@@ -1437,6 +2072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56906724,
             "language": "JavaScript",
             "last_commit": "2022-12-05T10:36:18Z",
             "owner": "slurmulon",
@@ -1448,7 +2084,7 @@
       "title": "Queries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1457,6 +2093,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14673229,
             "language": "JavaScript",
             "last_commit": "2018-04-18T13:46:26Z",
             "owner": "jdorn",
@@ -1471,6 +2108,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18065797,
             "language": "JavaScript",
             "last_commit": "2023-02-20T16:22:31Z",
             "owner": "json-schema-form",
@@ -1485,6 +2123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24870067,
             "language": "JavaScript",
             "last_commit": "2017-01-13T19:03:46Z",
             "owner": "mohsen1",
@@ -1499,6 +2138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30139211,
             "language": "JavaScript",
             "last_commit": "2016-07-12T13:15:05Z",
             "owner": "mohsen1",
@@ -1510,7 +2150,7 @@
       "title": "JSON Schema Frontend components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1519,6 +2159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10873724,
             "language": "Java",
             "last_commit": "2026-05-02T01:04:21Z",
             "owner": "joelittlejohn",
@@ -1533,6 +2174,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24914297,
             "language": "JavaScript",
             "last_commit": "2026-08-01T07:34:04Z",
             "owner": "json-schema-faker",
@@ -1547,6 +2189,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15318526,
             "language": "Ruby",
             "last_commit": "2025-02-06T16:33:27Z",
             "owner": "interagent",
@@ -1561,6 +2204,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39041446,
             "language": "TypeScript",
             "last_commit": "2026-08-14T01:25:31Z",
             "owner": "APIDevTools",
@@ -1575,6 +2219,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30894091,
             "language": "JavaScript",
             "last_commit": "2024-01-30T21:06:17Z",
             "owner": "nijikokun",
@@ -1589,6 +2234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14903365,
             "language": "JavaScript",
             "last_commit": "2023-11-05T00:43:36Z",
             "owner": "lbovet",
@@ -1603,6 +2249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4457488,
             "language": "JavaScript",
             "last_commit": "2016-11-23T19:37:02Z",
             "owner": "molnarg",
@@ -1617,6 +2264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802599802,
             "language": "C++",
             "last_commit": "2026-08-17T18:59:57Z",
             "owner": "sourcemeta",
@@ -1631,6 +2279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327499,
             "language": "C",
             "last_commit": "2010-03-10T21:20:35Z",
             "owner": "lloyd",
@@ -1645,6 +2294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4309438,
             "language": "JavaScript",
             "last_commit": "2016-12-14T12:27:28Z",
             "owner": "mattyod",
@@ -1659,6 +2309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13323241,
             "language": "JavaScript",
             "last_commit": "2018-01-22T22:35:29Z",
             "owner": "moll",
@@ -1670,7 +2321,7 @@
       "title": "JSON Schema Tools"
     },
     {
-      "description": "Javascript and Node.js",
+      "description": "Javascript and Node.js\nJava and Kotlin\nPHP\nPython\nRuby",
       "items": [
         {
           "node_type": "item",
@@ -1679,6 +2330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35914020,
             "language": "TypeScript",
             "last_commit": "2026-05-12T07:38:47Z",
             "owner": "ajv-validator",
@@ -1693,6 +2345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7738366,
             "language": "JavaScript",
             "last_commit": "2024-06-12T20:22:58Z",
             "owner": "geraintluff",
@@ -1707,6 +2360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22483459,
             "language": "JavaScript",
             "last_commit": "2022-08-16T16:33:01Z",
             "owner": "mafintosh",
@@ -1721,6 +2375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29967599,
             "language": "JavaScript",
             "last_commit": "2024-07-04T03:06:14Z",
             "owner": "ebdrup",
@@ -1735,6 +2390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11597304,
             "language": "TypeScript",
             "last_commit": "2026-08-13T13:17:01Z",
             "owner": "zaggino",
@@ -1749,6 +2405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13336001,
             "language": "JavaScript",
             "last_commit": "2019-11-06T19:00:48Z",
             "owner": "acornejo",
@@ -1763,6 +2420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13079552,
             "language": "CoffeeScript",
             "last_commit": "2017-07-21T19:54:54Z",
             "owner": "pandastrike",
@@ -1777,6 +2435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30349634,
             "language": "JavaScript",
             "last_commit": "2017-07-16T22:05:17Z",
             "owner": "bugventure",
@@ -1791,6 +2450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25862018,
             "language": "HTML",
             "last_commit": "2015-10-27T03:50:01Z",
             "owner": "playlyfe",
@@ -1805,30 +2465,52 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25270852,
             "language": "JavaScript",
             "last_commit": "2015-05-22T12:56:44Z",
             "owner": "bugventure",
             "repo": "request-validator",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonschema",
+          "description": "Python implementation of jsonschema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3072629,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:00:30Z",
+            "owner": "python-jsonschema",
+            "repo": "jsonschema",
+            "stars": 4973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Schema Toolkit",
+          "description": "Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10714550,
+            "language": "Python",
+            "last_commit": "2021-03-29T17:50:33Z",
+            "owner": "petrounias",
+            "repo": "json-schema-toolkit",
+            "stars": 30
+          }
         }
       ],
       "title": "JSON Schema Validators"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:06:09.635Z",
+    "last_updated": "2026-08-19T12:35:37.766Z",
     "original_repository": "burningtree/awesome-json",
+    "original_repository_id": 33020765,
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
     "enhanced_repository": "enhansome/enhansome-json",
     "enhanced_repository_description": null,
