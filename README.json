@@ -117,6 +117,21 @@
         {
           "node_type": "item",
           "title": "JSONView",
+          "description": "(github) - View JSON documents in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1840419,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T17:51:52Z",
+            "owner": "bhollis",
+            "repo": "jsonview",
+            "stars": 1713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONView",
           "description": "(github) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser",
           "children": [],
           "repo_info": {
@@ -193,7 +208,7 @@
             "last_commit": "2026-08-23T15:06:16Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35476
+            "stars": 35478
           }
         },
         {
@@ -208,7 +223,7 @@
             "last_commit": "2026-07-28T11:36:44Z",
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20588
+            "stars": 20589
           }
         },
         {
@@ -250,7 +265,7 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-23T22:19:26Z",
+            "last_commit": "2026-08-24T02:27:20Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8666
@@ -514,7 +529,7 @@
             "last_commit": "2026-08-24T02:00:32Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23360
+            "stars": 23363
           }
         },
         {
@@ -529,7 +544,7 @@
             "last_commit": "2026-03-27T22:36:45Z",
             "owner": "typicode",
             "repo": "lowdb",
-            "stars": 22575
+            "stars": 22576
           }
         },
         {
@@ -609,6 +624,48 @@
         }
       ],
       "title": "Databases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "countries",
+          "description": "World countries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3118246,
+            "language": "PHP",
+            "last_commit": "2026-07-20T13:06:21Z",
+            "owner": "mledoze",
+            "repo": "countries",
+            "stars": 6255
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSONModel",
+          "description": "Magical Data Modelling Framework. (Objective-C)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6969835,
+            "language": "Objective-C",
+            "last_commit": "2021-11-06T12:23:36Z",
+            "owner": "jsonmodel",
+            "repo": "jsonmodel",
+            "stars": 6808
+          }
+        }
+      ],
+      "title": "Data modeling"
     },
     {
       "description": null,
@@ -742,7 +799,7 @@
             "last_commit": "2022-10-20T14:43:02Z",
             "owner": "ndjson",
             "repo": "ndjson-spec",
-            "stars": 843
+            "stars": 844
           }
         },
         {
@@ -949,7 +1006,7 @@
             "last_commit": "2026-08-21T15:43:56Z",
             "owner": "nlohmann",
             "repo": "json",
-            "stars": 50445
+            "stars": 50453
           }
         },
         {
@@ -964,7 +1021,7 @@
             "last_commit": "2026-08-23T22:27:49Z",
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24175
+            "stars": 24181
           }
         },
         {
@@ -1044,6 +1101,66 @@
         },
         {
           "node_type": "item",
+          "title": "data.json",
+          "description": "parser/generator to/from Clojure data structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1468275,
+            "language": "Clojure",
+            "last_commit": "2026-01-02T14:48:11Z",
+            "owner": "clojure",
+            "repo": "data.json",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON-Fortran",
+          "description": "A Fortran library for writing, reading, and manipulating JSON files and data structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16651246,
+            "language": "Fortran",
+            "last_commit": "2026-06-11T11:25:28Z",
+            "owner": "jacobwilliams",
+            "repo": "json-fortran",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ojg",
+          "description": "A collection of high performance JSON processing and generating tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255132844,
+            "language": "Go",
+            "last_commit": "2026-08-22T04:16:34Z",
+            "owner": "ohler55",
+            "repo": "ojg",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aeson-qq",
+          "description": "JSON quasiquoter for Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1623123,
+            "language": "Haskell",
+            "last_commit": "2023-05-21T12:45:15Z",
+            "owner": "sol",
+            "repo": "aeson-qq",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Fast JSON Processor",
           "description": null,
           "children": [],
@@ -1054,7 +1171,7 @@
             "last_commit": "2026-07-29T08:04:40Z",
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25599
+            "stars": 25598
           }
         },
         {
@@ -1239,6 +1356,36 @@
         },
         {
           "node_type": "item",
+          "title": "JSON::Tiny",
+          "description": "Perl module for encoding and decoding JSON in a minimalistic way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5979657,
+            "language": "Perl",
+            "last_commit": "2017-11-12T16:01:09Z",
+            "owner": "daoswald",
+            "repo": "JSON-Tiny",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PL/JSON",
+          "description": "A generic JSON object written in PL/SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13413875,
+            "language": "PLSQL",
+            "last_commit": "2024-06-26T18:47:52Z",
+            "owner": "pljson",
+            "repo": "pljson",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Webmozart JSON",
           "description": "A robust decoder/encoder with support for schema validation.",
           "children": [],
@@ -1269,6 +1416,21 @@
         },
         {
           "node_type": "item",
+          "title": "simplejson",
+          "description": "A simple, fast, extensible encoder/decoder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1333666,
+            "language": "Python",
+            "last_commit": "2026-08-06T16:18:11Z",
+            "owner": "simplejson",
+            "repo": "simplejson",
+            "stars": 1711
+          }
+        },
+        {
+          "node_type": "item",
           "title": "oj",
           "description": "A fast JSON parser and Object marshaller as a Ruby gem.",
           "children": [],
@@ -1295,6 +1457,21 @@
             "owner": "intridea",
             "repo": "multi_json",
             "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json2react",
+          "description": "Use JSON to create React Stateless Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55326903,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:40:29Z",
+            "owner": "txgruppi",
+            "repo": "json2react",
+            "stars": 173
           }
         },
         {
@@ -1414,7 +1591,7 @@
             "last_commit": "2026-08-21T15:03:46Z",
             "owner": "ibireme",
             "repo": "yyjson",
-            "stars": 3847
+            "stars": 3849
           }
         }
       ],
@@ -1483,7 +1660,7 @@
             "archived": false,
             "id": 636602722,
             "language": "C",
-            "last_commit": "2026-08-23T16:44:34Z",
+            "last_commit": "2026-08-24T13:28:44Z",
             "owner": "clairey-zx81",
             "repo": "json-model",
             "stars": 8
@@ -1537,7 +1714,7 @@
             "last_commit": "2026-08-20T20:59:38Z",
             "owner": "hashicorp",
             "repo": "hcl",
-            "stars": 5797
+            "stars": 5798
           }
         },
         {
@@ -1720,11 +1897,62 @@
             "last_commit": "2026-08-24T02:05:40Z",
             "owner": "lukas-krecan",
             "repo": "JsonUnit",
-            "stars": 1003
+            "stars": 1004
           }
         }
       ],
       "title": "Testing"
+    },
+    {
+      "description": "Emacs\nVim\nVisual Studio Code\nNeovim",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON Reformat",
+          "description": "Reformat tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17214548,
+            "language": "Emacs Lisp",
+            "last_commit": "2022-09-06T00:44:43Z",
+            "owner": "gongo",
+            "repo": "json-reformat",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-json",
+          "description": "A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4598738,
+            "language": "Vim script",
+            "last_commit": "2024-05-19T21:51:36Z",
+            "owner": "elzr",
+            "repo": "vim-json",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvim-jqx",
+          "description": "Browse and query json files in neovim from the quickfix window. (Lua)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344514269,
+            "language": "Lua",
+            "last_commit": "2024-05-31T01:26:20Z",
+            "owner": "gennaro-tedesco",
+            "repo": "nvim-jqx",
+            "stars": 339
+          }
+        }
+      ],
+      "title": "Text Editor Plugins"
     },
     {
       "description": null,
@@ -2335,7 +2563,7 @@
             "last_commit": "2026-05-12T07:38:47Z",
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14809
+            "stars": 14810
           }
         },
         {
@@ -2475,6 +2703,36 @@
         },
         {
           "node_type": "item",
+          "title": "Medeia Validator",
+          "description": "Compliant (draft-04/06/07) and fast streaming validator written in Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171952948,
+            "language": "Kotlin",
+            "last_commit": "2022-06-20T22:41:17Z",
+            "owner": "worldturner",
+            "repo": "medeia-validator",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Schema for PHP",
+          "description": "PHP implementation of JSON schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1485595,
+            "language": "PHP",
+            "last_commit": "2026-08-21T11:30:43Z",
+            "owner": "jsonrainbow",
+            "repo": "json-schema",
+            "stars": 3629
+          }
+        },
+        {
+          "node_type": "item",
           "title": "jsonschema",
           "description": "Python implementation of jsonschema.",
           "children": [],
@@ -2482,7 +2740,7 @@
             "archived": false,
             "id": 3072629,
             "language": "Python",
-            "last_commit": "2026-08-21T20:36:27Z",
+            "last_commit": "2026-08-24T09:28:10Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
             "stars": 4973
@@ -2502,13 +2760,28 @@
             "repo": "json-schema-toolkit",
             "stars": 30
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby JSON Schema Validator",
+          "description": "validating against a JSON schema conforming to JSON Schema Draft 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1110217,
+            "language": "Ruby",
+            "last_commit": "2026-07-05T10:18:48Z",
+            "owner": "voxpupuli",
+            "repo": "json-schema",
+            "stars": 1643
+          }
         }
       ],
       "title": "JSON Schema Validators"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:10:37.389Z",
+    "last_updated": "2026-08-24T14:11:46.239Z",
     "original_repository": "burningtree/awesome-json",
     "original_repository_id": 33020765,
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
