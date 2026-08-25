@@ -126,7 +126,7 @@
             "last_commit": "2026-02-26T17:51:52Z",
             "owner": "bhollis",
             "repo": "jsonview",
-            "stars": 1713
+            "stars": 1714
           }
         },
         {
@@ -265,7 +265,7 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-24T02:27:20Z",
+            "last_commit": "2026-08-25T00:21:28Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8666
@@ -328,7 +328,7 @@
             "last_commit": "2025-08-25T14:43:56Z",
             "owner": "logdyhq",
             "repo": "logdy-core",
-            "stars": 2277
+            "stars": 2278
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-08-24T02:00:32Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23363
+            "stars": 23365
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-03-27T22:36:45Z",
             "owner": "typicode",
             "repo": "lowdb",
-            "stars": 22576
+            "stars": 22575
           }
         },
         {
@@ -559,7 +559,7 @@
             "last_commit": "2026-08-14T06:42:31Z",
             "owner": "Kinto",
             "repo": "kinto",
-            "stars": 4416
+            "stars": 4417
           }
         },
         {
@@ -799,7 +799,7 @@
             "last_commit": "2022-10-20T14:43:02Z",
             "owner": "ndjson",
             "repo": "ndjson-spec",
-            "stars": 844
+            "stars": 845
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-08-21T15:43:56Z",
             "owner": "nlohmann",
             "repo": "json",
-            "stars": 50453
+            "stars": 50457
           }
         },
         {
@@ -1018,10 +1018,10 @@
             "archived": false,
             "id": 126412363,
             "language": "C++",
-            "last_commit": "2026-08-23T22:27:49Z",
+            "last_commit": "2026-08-25T01:21:00Z",
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24181
+            "stars": 24182
           }
         },
         {
@@ -1228,7 +1228,7 @@
             "archived": false,
             "id": 1187853,
             "language": "Java",
-            "last_commit": "2026-08-14T16:15:16Z",
+            "last_commit": "2026-08-24T17:22:45Z",
             "owner": "stleary",
             "repo": "JSON-java",
             "stars": 4717
@@ -1588,7 +1588,7 @@
             "archived": false,
             "id": 302298095,
             "language": "C",
-            "last_commit": "2026-08-21T15:03:46Z",
+            "last_commit": "2026-08-24T17:06:13Z",
             "owner": "ibireme",
             "repo": "yyjson",
             "stars": 3849
@@ -1660,7 +1660,7 @@
             "archived": false,
             "id": 636602722,
             "language": "C",
-            "last_commit": "2026-08-24T13:28:44Z",
+            "last_commit": "2026-08-24T18:17:39Z",
             "owner": "clairey-zx81",
             "repo": "json-model",
             "stars": 8
@@ -1684,7 +1684,7 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20583
+            "stars": 20584
           }
         },
         {
@@ -1894,7 +1894,7 @@
             "archived": false,
             "id": 3296177,
             "language": "Java",
-            "last_commit": "2026-08-24T02:05:40Z",
+            "last_commit": "2026-08-25T02:05:42Z",
             "owner": "lukas-krecan",
             "repo": "JsonUnit",
             "stars": 1004
@@ -1984,7 +1984,7 @@
             "last_commit": "2026-08-19T12:37:06Z",
             "owner": "NaturalIntelligence",
             "repo": "fast-xml-parser",
-            "stars": 3133
+            "stars": 3134
           }
         },
         {
@@ -2245,7 +2245,7 @@
             "last_commit": "2026-08-16T19:25:05Z",
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8024
+            "stars": 8025
           }
         },
         {
@@ -2326,7 +2326,7 @@
             "last_commit": "2018-04-18T13:46:26Z",
             "owner": "jdorn",
             "repo": "json-editor",
-            "stars": 5818
+            "stars": 5819
           }
         },
         {
@@ -2740,7 +2740,7 @@
             "archived": false,
             "id": 3072629,
             "language": "Python",
-            "last_commit": "2026-08-24T09:28:10Z",
+            "last_commit": "2026-08-24T18:37:54Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
             "stars": 4973
@@ -2781,7 +2781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:46.239Z",
+    "last_updated": "2026-08-25T02:06:34.490Z",
     "original_repository": "burningtree/awesome-json",
     "original_repository_id": 33020765,
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
