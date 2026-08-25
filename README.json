@@ -265,7 +265,7 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-25T00:21:28Z",
+            "last_commit": "2026-08-25T04:36:59Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8666
@@ -514,7 +514,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75687
+            "stars": 75689
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-08-24T02:00:32Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23365
+            "stars": 23364
           }
         },
         {
@@ -1021,7 +1021,7 @@
             "last_commit": "2026-08-25T01:21:00Z",
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24182
+            "stars": 24184
           }
         },
         {
@@ -1591,7 +1591,7 @@
             "last_commit": "2026-08-24T17:06:13Z",
             "owner": "ibireme",
             "repo": "yyjson",
-            "stars": 3849
+            "stars": 3848
           }
         }
       ],
@@ -2781,7 +2781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:06:34.490Z",
+    "last_updated": "2026-08-25T06:01:33.932Z",
     "original_repository": "burningtree/awesome-json",
     "original_repository_id": 33020765,
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",

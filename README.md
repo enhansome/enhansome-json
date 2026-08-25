@@ -2,7 +2,7 @@
 
 A curated list of awesome JSON libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,640 | 🐛 106 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 | 🐛 106 | 📅 2026-08-21 list.
 
 [![Links](https://github.com/burningtree/awesome-json/actions/workflows/links.yml/badge.svg)](https://github.com/burningtree/awesome-json/actions/workflows/links.yml) ⭐ 1,564 | 🐛 88 | 📅 2026-06-19
 
@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,640 |
 * [fx](https://github.com/antonmedv/fx) ⭐ 20,589 | 🐛 25 | 🌐 Go | 📅 2026-07-28 - A interactive terminal tool.
 * [gron](https://github.com/tomnomnom/gron) ⭐ 14,498 | 🐛 50 | 🌐 Go | 📅 2025-05-31 - Convert a JSON file into discrete assignments that are greppable.
 * [visidata](https://github.com/saulpw/visidata) ⭐ 9,251 | 🐛 77 | 🌐 Python | 📅 2026-08-23 - A terminal spreadsheet-like tool for interactively exploring data.
-* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,666 | 🐛 47 | 🌐 Python | 📅 2026-08-25 - Converts the output of many CLI tools, file-types, and common strings into JSON
+* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,666 | 🐛 46 | 🌐 Python | 📅 2026-08-25 - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [jid](https://github.com/simeji/jid) ⭐ 7,136 | 🐛 10 | 🌐 Go | 📅 2026-08-02 - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 * [jo](https://github.com/jpmens/jo) ⭐ 4,862 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects
 * [dsq](https://github.com/multiprocessio/dsq) ⭐ 3,866 | 🐛 22 | 🌐 Go | 📅 2023-09-30 - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -110,8 +110,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,640 |
 
 ## Databases
 
-* [JSON Server](https://github.com/typicode/json-server) ⭐ 75,687 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds.
-* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,365 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
+* [JSON Server](https://github.com/typicode/json-server) ⭐ 75,689 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds.
+* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,364 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
 * [lowdb](https://github.com/typicode/lowdb) ⭐ 22,575 | 🐛 16 | 🌐 JavaScript | 📅 2026-03-27 - Flat file database built on lodash API. (Javascript)
 * [Kinto](https://github.com/Kinto/kinto) ⭐ 4,417 | 🐛 94 | 🌐 Python | 📅 2026-08-14 - A lightweight JSON storage service with synchronisation and sharing abilities.
 * [Lawnchair](https://github.com/brianleroux/lawnchair) ⭐ 2,126 | 🐛 86 | 🌐 JavaScript | 📅 2020-05-17 - A lightweight clientside document store. (Javascript)
@@ -210,7 +210,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,640 |
 **C++**
 
 * [Nlohmann JSON](https://github.com/nlohmann/json) ⭐ 50,457 | 🐛 100 | 🌐 C++ | 📅 2026-08-21 - A C++11 header-only class.
-* [simdjson](https://github.com/simdjson/simdjson) ⭐ 24,182 | 🐛 133 | 🌐 C++ | 📅 2026-08-25 - Parsing gigabytes of JSON per second.
+* [simdjson](https://github.com/simdjson/simdjson) ⭐ 24,184 | 🐛 133 | 🌐 C++ | 📅 2026-08-25 - Parsing gigabytes of JSON per second.
 * [RapidJSON](https://github.com/Tencent/rapidjson) ⭐ 15,117 | 🐛 790 | 🌐 C++ | 📅 2025-02-05 - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) ⭐ 7,205 | 🐛 17 | 🌐 C++ | 📅 2026-08-15 - An efficient library for embedded systems.
 * [json11](https://github.com/dropbox/json11) ⚠️ Archived - A tiny library for C++11.
@@ -307,7 +307,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,640 |
 
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,950 | 🐛 139 | 🌐 Swift | 📅 2026-08-18 - The better way to deal with data in Swift.
 
-* [yyjson](https://github.com/ibireme/yyjson) ⭐ 3,849 | 🐛 39 | 🌐 C | 📅 2026-08-24 - High performance parser and serializer in C.
+* [yyjson](https://github.com/ibireme/yyjson) ⭐ 3,848 | 🐛 39 | 🌐 C | 📅 2026-08-24 - High performance parser and serializer in C.
 
 ## Linters
 
