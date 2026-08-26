@@ -2,7 +2,7 @@
 
 A curated list of awesome JSON libraries and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 | 🐛 106 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,947 | 🐛 106 | 📅 2026-08-21 list.
 
 [![Links](https://github.com/burningtree/awesome-json/actions/workflows/links.yml/badge.svg)](https://github.com/burningtree/awesome-json/actions/workflows/links.yml) ⭐ 1,564 | 🐛 88 | 📅 2026-06-19
 
@@ -64,8 +64,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 **Chrome**
 
-* [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github](https://github.com/callumlocke/json-formatter) ⭐ 4,130 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-26) - Makes JSON easy to read. Open source.
-* [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github](https://github.com/tulios/json-viewer) ⭐ 3,456 | 🐛 203 | 🌐 HTML | 📅 2024-08-20) - It is a Chrome extension for printing JSON and JSONP.
+* [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github](https://github.com/callumlocke/json-formatter) ⭐ 4,129 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-26) - Makes JSON easy to read. Open source.
+* [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github](https://github.com/tulios/json-viewer) ⭐ 3,455 | 🐛 203 | 🌐 HTML | 📅 2024-08-20) - It is a Chrome extension for printing JSON and JSONP.
 * [JSON Viewer Pro](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) ([github](https://github.com/rbrahul/Awesome-JSON-Viewer) ⭐ 582 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-21 - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
 * [JSON Finder](https://chromewebstore.google.com/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github](https://github.com/rapee/jsonfinder) ⭐ 41 | 🐛 18 | 🌐 JavaScript | 📅 2022-06-09) - Browse like you do it in Finder.
 * [Discoverable JSON](https://chromewebstore.google.com/detail/json-manipulator-json-to/pcakbljjigdafljigcpbmjllkbhlncjg) ([github](https://github.com/noitcudni/discoverable-json) ⭐ 3 | 🐛 0 | 🌐 Clojure | 📅 2021-02-20) - Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities.
@@ -81,17 +81,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Command-line tools
 
-* [jq](https://github.com/jqlang/jq) ⭐ 35,478 | 🐛 467 | 🌐 C | 📅 2026-08-23 - A lightweight and flexible command-line JSON processor.
+* [jq](https://github.com/jqlang/jq) ⭐ 35,481 | 🐛 469 | 🌐 C | 📅 2026-08-23 - A lightweight and flexible command-line JSON processor.
   * [gojq](https://github.com/itchyny/gojq) ⭐ 3,796 | 🐛 18 | 🌐 Go | 📅 2026-08-23 - Pure Go implementation of jq. A bit faster and more portable.
-  * [jaq](https://github.com/01mf02/jaq) ⭐ 3,725 | 🐛 22 | 🌐 Rust | 📅 2026-08-19 - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,589 | 🐛 25 | 🌐 Go | 📅 2026-07-28 - A interactive terminal tool.
+  * [jaq](https://github.com/01mf02/jaq) ⭐ 3,726 | 🐛 22 | 🌐 Rust | 📅 2026-08-19 - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,590 | 🐛 25 | 🌐 Go | 📅 2026-07-28 - A interactive terminal tool.
 * [gron](https://github.com/tomnomnom/gron) ⭐ 14,498 | 🐛 50 | 🌐 Go | 📅 2025-05-31 - Convert a JSON file into discrete assignments that are greppable.
-* [visidata](https://github.com/saulpw/visidata) ⭐ 9,251 | 🐛 77 | 🌐 Python | 📅 2026-08-23 - A terminal spreadsheet-like tool for interactively exploring data.
-* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,666 | 🐛 46 | 🌐 Python | 📅 2026-08-25 - Converts the output of many CLI tools, file-types, and common strings into JSON
+* [visidata](https://github.com/saulpw/visidata) ⭐ 9,251 | 🐛 78 | 🌐 Python | 📅 2026-08-23 - A terminal spreadsheet-like tool for interactively exploring data.
+* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,666 | 🐛 40 | 🌐 Python | 📅 2026-08-26 - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [jid](https://github.com/simeji/jid) ⭐ 7,136 | 🐛 10 | 🌐 Go | 📅 2026-08-02 - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 * [jo](https://github.com/jpmens/jo) ⭐ 4,862 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects
 * [dsq](https://github.com/multiprocessio/dsq) ⭐ 3,866 | 🐛 22 | 🌐 Go | 📅 2023-09-30 - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-* [logdy](https://github.com/logdyhq/logdy-core) ⭐ 2,278 | 🐛 36 | 🌐 Go | 📅 2025-08-25 - jq, tail, less, grep and awk merged together and available in a clean web UI.
+* [logdy](https://github.com/logdyhq/logdy-core) ⭐ 2,279 | 🐛 36 | 🌐 Go | 📅 2025-08-25 - jq, tail, less, grep and awk merged together and available in a clean web UI.
 * [jsawk](https://github.com/micha/jsawk) ⭐ 1,385 | 🐛 28 | 🌐 Shell | 📅 2021-08-31 - Like awk, but for JSON.
 * [oj](https://github.com/ohler55/ojg) ⭐ 953 | 🐛 0 | 🌐 Go | 📅 2026-08-22 - A fast and flexible command line JSON processor.
 * [jiq](https://github.com/fiatjaf/jiq) ⚠️ Archived - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
@@ -110,12 +110,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Databases
 
-* [JSON Server](https://github.com/typicode/json-server) ⭐ 75,689 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds.
-* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,364 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
+* [JSON Server](https://github.com/typicode/json-server) ⭐ 75,687 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - Get a full fake REST API with zero coding in less than 30 seconds.
+* [RxDB](https://github.com/pubkey/rxdb) ⭐ 23,366 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-25 - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
 * [lowdb](https://github.com/typicode/lowdb) ⭐ 22,575 | 🐛 16 | 🌐 JavaScript | 📅 2026-03-27 - Flat file database built on lodash API. (Javascript)
 * [Kinto](https://github.com/Kinto/kinto) ⭐ 4,417 | 🐛 94 | 🌐 Python | 📅 2026-08-14 - A lightweight JSON storage service with synchronisation and sharing abilities.
 * [Lawnchair](https://github.com/brianleroux/lawnchair) ⭐ 2,126 | 🐛 86 | 🌐 JavaScript | 📅 2020-05-17 - A lightweight clientside document store. (Javascript)
-* [EJDB](https://github.com/Softmotions/ejdb) ⭐ 1,478 | 🐛 35 | 🌐 C | 📅 2026-08-19 - Embedded JSON Database engine published under MIT license. (C)
+* [EJDB](https://github.com/Softmotions/ejdb) ⭐ 1,478 | 🐛 35 | 🌐 C | 📅 2026-08-25 - Embedded JSON Database engine published under MIT license. (C)
 * [JSONlite](https://github.com/nodesocket/jsonlite) ⭐ 843 | 🐛 2 | 🌐 Shell | 📅 2025-03-03 - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 * [JSON ODM](https://github.com/konsultaner/jsonOdm) ⭐ 100 | 🐛 1 | 🌐 JavaScript | 📅 2023-03-08 - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
@@ -132,7 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Data modeling
 
-* [JSONModel](https://github.com/jsonmodel/jsonmodel) ⭐ 6,808 | 🐛 34 | 🌐 Objective-C | 📅 2021-11-06 - Magical Data Modelling Framework. (Objective-C)
+* [JSONModel](https://github.com/jsonmodel/jsonmodel) ⭐ 6,809 | 🐛 34 | 🌐 Objective-C | 📅 2021-11-06 - Magical Data Modelling Framework. (Objective-C)
 
 ## Data generation
 
@@ -142,7 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 ## Differencing
 
 * [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) ⭐ 5,336 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-14 - Diff & patch for JavaScript objects. (Javascript)
-* [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) ⭐ 1,981 | 🐛 83 | 🌐 JavaScript | 📅 2025-10-23 - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
+* [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) ⭐ 1,982 | 🐛 83 | 🌐 JavaScript | 📅 2025-10-23 - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
 * [jiff](https://github.com/cujojs/jiff) ⭐ 641 | 🐛 16 | 🌐 JavaScript | 📅 2024-08-11 - JSON Patch and diff based on rfc6902. (Javascript)
 * [dffptch](https://github.com/paldepind/dffptch) ⭐ 171 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-11 - A micro library for diffing and patching using a compact diff format. (Javascript)
 * [json-patch-php](https://github.com/mikemccabe/json-patch-php) ⭐ 112 | 🐛 13 | 🌐 PHP | 📅 2019-02-26 - implementation of JSON-patch (IETF RFC 6902) (PHP)
@@ -183,7 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 * [Dynatable.js](https://github.com/alfajango/jquery-dynatable) ⭐ 2,751 | 🐛 228 | 🌐 JavaScript | 📅 2022-02-25 - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 
-* [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) ⭐ 564 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-05 - component for you web apps/pages. (jQuery)
+* [JSON editor jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) ⭐ 565 | 🐛 19 | 🌐 JavaScript | 📅 2019-02-05 - component for you web apps/pages. (jQuery)
 
 * [@textea/json-viewer](https://github.com/TexteaInc/json-viewer) ⭐ 533 | 🐛 27 | 🌐 TypeScript | 📅 2025-07-04 - A React component for JSON viewer. (React)
 
@@ -201,7 +201,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 **C**
 
-* [Jansson](https://github.com/akheron/jansson) ⭐ 3,358 | 🐛 128 | 🌐 C | 📅 2026-07-09 - A C library for encoding, decoding and manipulating data.
+* [Jansson](https://github.com/akheron/jansson) ⭐ 3,359 | 🐛 128 | 🌐 C | 📅 2026-07-09 - A C library for encoding, decoding and manipulating data.
 * [json-build](https://github.com/lcsmuller/json-build) ⭐ 53 | 🐛 0 | 🌐 C | 📅 2025-04-12 - A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.
 * [ojc](https://github.com/ohler55/ojc) ⭐ 38 | 🐛 1 | 🌐 C | 📅 2024-04-24 - A fast JSON parser.
 * [codables](https://codableslib.com/) - Declarative, type-rich (de)serializer able to handle almost any data type.
@@ -209,9 +209,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 **C++**
 
-* [Nlohmann JSON](https://github.com/nlohmann/json) ⭐ 50,457 | 🐛 100 | 🌐 C++ | 📅 2026-08-21 - A C++11 header-only class.
-* [simdjson](https://github.com/simdjson/simdjson) ⭐ 24,184 | 🐛 133 | 🌐 C++ | 📅 2026-08-25 - Parsing gigabytes of JSON per second.
-* [RapidJSON](https://github.com/Tencent/rapidjson) ⭐ 15,117 | 🐛 790 | 🌐 C++ | 📅 2025-02-05 - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [Nlohmann JSON](https://github.com/nlohmann/json) ⭐ 50,468 | 🐛 107 | 🌐 C++ | 📅 2026-08-25 - A C++11 header-only class.
+* [simdjson](https://github.com/simdjson/simdjson) ⭐ 24,194 | 🐛 133 | 🌐 C++ | 📅 2026-08-25 - Parsing gigabytes of JSON per second.
+* [RapidJSON](https://github.com/Tencent/rapidjson) ⭐ 15,119 | 🐛 790 | 🌐 C++ | 📅 2025-02-05 - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) ⭐ 7,205 | 🐛 17 | 🌐 C++ | 📅 2026-08-15 - An efficient library for embedded systems.
 * [json11](https://github.com/dropbox/json11) ⚠️ Archived - A tiny library for C++11.
 * [JSON++](https://github.com/tunnuz/json) ⭐ 41 | 🐛 6 | 🌐 C++ | 📅 2016-06-15 - A self contained Flex/Bison parser for C++11.
@@ -238,9 +238,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 **Java**
 
 * [Fast JSON Processor](https://github.com/alibaba/fastjson) ⚠️ Archived
-* [Gson](https://github.com/google/gson) ⭐ 24,226 | 🐛 341 | 🌐 Java | 📅 2026-08-14 - A Java library to convert JSON to Java objects and vice-versa.
-* [moshi](https://github.com/square/moshi) ⭐ 10,154 | 🐛 112 | 🌐 Kotlin | 📅 2026-08-19 - A modern JSON library for Android and Java.
-* [Jackson](https://github.com/FasterXML/jackson) ⭐ 9,801 | 🐛 0 | 📅 2026-07-17 - A multi-purpose Java library for processing JSON data format.
+* [Gson](https://github.com/google/gson) ⭐ 24,224 | 🐛 343 | 🌐 Java | 📅 2026-08-25 - A Java library to convert JSON to Java objects and vice-versa.
+* [moshi](https://github.com/square/moshi) ⭐ 10,153 | 🐛 113 | 🌐 Kotlin | 📅 2026-08-25 - A modern JSON library for Android and Java.
+* [Jackson](https://github.com/FasterXML/jackson) ⭐ 9,802 | 🐛 0 | 📅 2026-07-17 - A multi-purpose Java library for processing JSON data format.
 * [JSON-java](https://github.com/stleary/JSON-java) ⭐ 4,717 | 🐛 21 | 🌐 Java | 📅 2026-08-24 - A reference implementation.
 * [dsl-json](https://github.com/ngs-doo/dsl-json) ⭐ 1,071 | 🐛 49 | 🌐 Java | 📅 2026-06-29 - A very fast streaming JSON library. Operates on byte arrays.
 * [mjson](https://github.com/bolerio/mjson) ⭐ 93 | 🐛 19 | 🌐 Java | 📅 2025-06-28 - Lean JSON Library for Java, with a compact, elegant API.
@@ -305,9 +305,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 **Swift**
 
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,950 | 🐛 139 | 🌐 Swift | 📅 2026-08-18 - The better way to deal with data in Swift.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,949 | 🐛 139 | 🌐 Swift | 📅 2026-08-18 - The better way to deal with data in Swift.
 
-* [yyjson](https://github.com/ibireme/yyjson) ⭐ 3,848 | 🐛 39 | 🌐 C | 📅 2026-08-24 - High performance parser and serializer in C.
+* [yyjson](https://github.com/ibireme/yyjson) ⭐ 3,849 | 🐛 45 | 🌐 C | 📅 2026-08-24 - High performance parser and serializer in C.
 
 ## Linters
 
@@ -352,7 +352,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 ## Schema Specifications
 
 * [Kwalify](https://github.com/kvs/kwalify) ⚠️ Archived - A parser, schema validator, and data binding tool
-* [JSON Model](https://github.com/clairey-zx81/json-model) ⭐ 8 | 🐛 3 | 🌐 C | 📅 2026-08-24 - A lightweight featureful DSL for data modeling.
+* [JSON Model](https://github.com/clairey-zx81/json-model) ⭐ 8 | 🐛 3 | 🌐 C | 📅 2026-08-25 - A lightweight featureful DSL for data modeling.
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
 * [Itemscript](https://code.google.com/archive/p/itemscript/) - Language for validating and specifying values.
 * [Rx](https://rx.codesimply.com/) - Simple, Extensible Schemata.
@@ -367,9 +367,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Supersets
 
-* [TOML](https://github.com/toml-lang/toml) ⭐ 20,584 | 🐛 12 | 📅 2026-07-03 - A minimal configuration file format that's easy to read due to obvious semantics.
+* [TOML](https://github.com/toml-lang/toml) ⭐ 20,586 | 🐛 12 | 📅 2026-07-03 - A minimal configuration file format that's easy to read due to obvious semantics.
 * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md) ⭐ 6,313 | 🐛 243 | 🌐 Java | 📅 2026-07-01 - Human-Optimized Config Object Notation.
-* [HCL](https://github.com/hashicorp/hcl) ⭐ 5,798 | 🐛 237 | 🌐 Go | 📅 2026-08-20 - A structured configuration language that is both human and machine friendly.
+* [HCL](https://github.com/hashicorp/hcl) ⭐ 5,798 | 🐛 236 | 🌐 Go | 📅 2026-08-25 - A structured configuration language that is both human and machine friendly.
 * [HanSON](https://github.com/timjansen/hanson) ⭐ 157 | 🐛 5 | 🌐 JavaScript | 📅 2023-02-01 - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [μson](https://github.com/burningtree/uson) ⭐ 80 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-30 (uson) - a shorthand for JSON.
 * [ASON](https://github.com/sadmac7000/libason) ⭐ 2 | 🐛 1 | 🌐 C | 📅 2015-03-07 - A semantically complete superset of JSON (draft).
@@ -392,7 +392,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Resources
 
-* [Awesome jq](https://github.com/fiatjaf/awesome-jq) ⭐ 975 | 🐛 5 | 📅 2026-08-17 - A curated list of awesome jq tools and resources.
+* [Awesome jq](https://github.com/fiatjaf/awesome-jq) ⭐ 976 | 🐛 5 | 📅 2026-08-17 - A curated list of awesome jq tools and resources.
 * [Type-o-rama](https://github.com/stereobooster/type-o-rama) ⭐ 247 | 🐛 1 | 📅 2022-11-14 - JS type systems interportability, comparison of different JS type systems and conversion between them.
 
 ## Templates
@@ -403,7 +403,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Testing
 
-* [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite) ⭐ 1,159 | 🐛 53 | 🌐 C++ | 📅 2024-11-22 - A very complete test suite and validation framework.
+* [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite) ⭐ 1,160 | 🐛 53 | 🌐 C++ | 📅 2024-11-22 - A very complete test suite and validation framework.
 * [JSONassert](https://github.com/skyscreamer/JSONassert) ⭐ 1,056 | 🐛 94 | 🌐 Java | 📅 2024-07-28 - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit) ⭐ 1,004 | 🐛 14 | 🌐 Java | 📅 2026-08-25 - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 * [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
@@ -449,7 +449,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## Queries
 
-* [dasel](https://github.com/tomwright/dasel) ⭐ 8,025 | 🐛 25 | 🌐 Go | 📅 2026-08-16 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/jqlang/jq) ⭐ 35,478 | 🐛 467 | 🌐 C | 📅 2026-08-23 / [yq](https://github.com/kislyuk/yq) ⭐ 2,971 | 🐛 23 | 🌐 Python | 📅 2026-07-11 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [dasel](https://github.com/tomwright/dasel) ⭐ 8,027 | 🐛 25 | 🌐 Go | 📅 2026-08-16 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/jqlang/jq) ⭐ 35,481 | 🐛 469 | 🌐 C | 📅 2026-08-23 / [yq](https://github.com/kislyuk/yq) ⭐ 2,971 | 🐛 23 | 🌐 Python | 📅 2026-07-11 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [JSONSelect](https://github.com/lloyd/JSONSelect) ⭐ 1,588 | 🐛 46 | 🌐 JavaScript | 📅 2021-08-31 - CSS-like selectors. (Javascript)
 * [JSON Mask](https://github.com/nemtsov/json-mask) ⭐ 870 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-18 - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
 * [searchjs](https://github.com/deitch/searchjs) ⭐ 309 | 🐛 10 | 🌐 JavaScript | 📅 2025-02-19 - A library for filtering based on a json SQL-like language.
@@ -471,7 +471,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 ## JSON Schema Tools
 
-* [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) ⭐ 6,380 | 🐛 251 | 🌐 Java | 📅 2026-05-02 - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
+* [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) ⭐ 6,381 | 🐛 251 | 🌐 Java | 📅 2026-05-02 - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
 * [JSON Schema + Faker](https://github.com/json-schema-faker/json-schema-faker) ⭐ 3,448 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-01 - Fake your schemas.
 * [prmd](https://github.com/interagent/prmd) ⭐ 2,089 | 🐛 75 | 🌐 Ruby | 📅 2025-02-06 - Tools and doc generation for HTTP APIs.
 * [JSON Schema $Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) ⭐ 1,112 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-14 - Parse, resolve, and dereference JSON Schema $ref pointers
@@ -494,9 +494,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 **Javascript and Node.js**
 
-* [ajv](https://github.com/ajv-validator/ajv) ⭐ 14,810 | 🐛 376 | 🌐 TypeScript | 📅 2026-05-12 - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
+* [ajv](https://github.com/ajv-validator/ajv) ⭐ 14,811 | 🐛 376 | 🌐 TypeScript | 📅 2026-05-12 - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
 * [tv4](https://github.com/geraintluff/tv4) ⭐ 1,166 | 🐛 116 | 🌐 JavaScript | 📅 2024-06-12 - Tiny Validator.
-* [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) ⭐ 963 | 🐛 55 | 🌐 JavaScript | 📅 2022-08-16 - A validator that uses code generation to be extremely fast.
+* [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) ⭐ 963 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-25 - A validator that uses code generation to be extremely fast.
 * [json-schema-benchmark](https://github.com/ebdrup/json-schema-benchmark) ⭐ 387 | 🐛 16 | 🌐 JavaScript | 📅 2024-07-04 - Performance benchmark for Node.js validators.
 * [z-schema](https://github.com/zaggino/z-schema) ⭐ 350 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - validator written in JavaScript for NodeJS and Browsers.
 * [jjv](https://github.com/acornejo/jjv) ⭐ 200 | 🐛 18 | 🌐 JavaScript | 📅 2019-11-06 - Javascript Library for Schema Validation.
@@ -516,7 +516,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,699 |
 
 **Python**
 
-* [jsonschema](https://github.com/python-jsonschema/jsonschema) ⭐ 4,973 | 🐛 64 | 🌐 Python | 📅 2026-08-24 - Python implementation of jsonschema.
+* [jsonschema](https://github.com/python-jsonschema/jsonschema) ⭐ 4,975 | 🐛 64 | 🌐 Python | 📅 2026-08-24 - Python implementation of jsonschema.
 * [JSON Schema Toolkit](https://github.com/petrounias/json-schema-toolkit) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2021-03-29 - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**
@@ -533,4 +533,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

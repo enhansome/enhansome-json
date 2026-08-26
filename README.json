@@ -51,7 +51,7 @@
             "last_commit": "2026-02-26T16:33:51Z",
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4130
+            "stars": 4129
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-08-20T05:45:16Z",
             "owner": "tulios",
             "repo": "json-viewer",
-            "stars": 3456
+            "stars": 3455
           }
         },
         {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-19T10:39:13Z",
                 "owner": "01mf02",
                 "repo": "jaq",
-                "stars": 3725
+                "stars": 3726
               }
             }
           ],
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-23T15:06:16Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35478
+            "stars": 35481
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-07-28T11:36:44Z",
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20589
+            "stars": 20590
           }
         },
         {
@@ -265,7 +265,7 @@
             "archived": false,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-25T04:36:59Z",
+            "last_commit": "2026-08-26T01:01:20Z",
             "owner": "kellyjonbrazil",
             "repo": "jc",
             "stars": 8666
@@ -328,7 +328,7 @@
             "last_commit": "2025-08-25T14:43:56Z",
             "owner": "logdyhq",
             "repo": "logdy-core",
-            "stars": 2278
+            "stars": 2279
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75689
+            "stars": 75687
           }
         },
         {
@@ -526,10 +526,10 @@
             "archived": false,
             "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:00:32Z",
+            "last_commit": "2026-08-25T23:17:10Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23364
+            "stars": 23366
           }
         },
         {
@@ -586,7 +586,7 @@
             "archived": false,
             "id": 6427744,
             "language": "C",
-            "last_commit": "2026-08-19T12:14:39Z",
+            "last_commit": "2026-08-25T08:56:06Z",
             "owner": "Softmotions",
             "repo": "ejdb",
             "stars": 1478
@@ -661,7 +661,7 @@
             "last_commit": "2021-11-06T12:23:36Z",
             "owner": "jsonmodel",
             "repo": "jsonmodel",
-            "stars": 6808
+            "stars": 6809
           }
         }
       ],
@@ -733,7 +733,7 @@
             "last_commit": "2025-10-23T20:48:55Z",
             "owner": "Starcounter-Jack",
             "repo": "JSON-Patch",
-            "stars": 1981
+            "stars": 1982
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2019-02-05T10:36:16Z",
             "owner": "DavidDurman",
             "repo": "FlexiJsonEditor",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2026-07-09T17:43:34Z",
             "owner": "akheron",
             "repo": "jansson",
-            "stars": 3358
+            "stars": 3359
           }
         },
         {
@@ -1003,10 +1003,10 @@
             "archived": false,
             "id": 11171548,
             "language": "C++",
-            "last_commit": "2026-08-21T15:43:56Z",
+            "last_commit": "2026-08-25T15:47:39Z",
             "owner": "nlohmann",
             "repo": "json",
-            "stars": 50457
+            "stars": 50468
           }
         },
         {
@@ -1018,10 +1018,10 @@
             "archived": false,
             "id": 126412363,
             "language": "C++",
-            "last_commit": "2026-08-25T01:21:00Z",
+            "last_commit": "2026-08-25T20:35:51Z",
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24184
+            "stars": 24194
           }
         },
         {
@@ -1036,7 +1036,7 @@
             "last_commit": "2025-02-05T13:28:08Z",
             "owner": "Tencent",
             "repo": "rapidjson",
-            "stars": 15117
+            "stars": 15119
           }
         },
         {
@@ -1183,10 +1183,10 @@
             "archived": false,
             "id": 32538871,
             "language": "Java",
-            "last_commit": "2026-08-14T19:50:04Z",
+            "last_commit": "2026-08-25T21:07:36Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24226
+            "stars": 24224
           }
         },
         {
@@ -1198,10 +1198,10 @@
             "archived": false,
             "id": 22789601,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T19:57:25Z",
+            "last_commit": "2026-08-25T13:50:46Z",
             "owner": "square",
             "repo": "moshi",
-            "stars": 10154
+            "stars": 10153
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-07-17T03:05:02Z",
             "owner": "FasterXML",
             "repo": "jackson",
-            "stars": 9801
+            "stars": 9802
           }
         },
         {
@@ -1576,7 +1576,7 @@
             "last_commit": "2026-08-18T07:07:07Z",
             "owner": "SwiftyJSON",
             "repo": "SwiftyJSON",
-            "stars": 22950
+            "stars": 22949
           }
         },
         {
@@ -1591,7 +1591,7 @@
             "last_commit": "2026-08-24T17:06:13Z",
             "owner": "ibireme",
             "repo": "yyjson",
-            "stars": 3848
+            "stars": 3849
           }
         }
       ],
@@ -1660,7 +1660,7 @@
             "archived": false,
             "id": 636602722,
             "language": "C",
-            "last_commit": "2026-08-24T18:17:39Z",
+            "last_commit": "2026-08-25T14:51:20Z",
             "owner": "clairey-zx81",
             "repo": "json-model",
             "stars": 8
@@ -1684,7 +1684,7 @@
             "last_commit": "2026-07-03T10:35:59Z",
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20584
+            "stars": 20586
           }
         },
         {
@@ -1711,7 +1711,7 @@
             "archived": false,
             "id": 22485114,
             "language": "Go",
-            "last_commit": "2026-08-20T20:59:38Z",
+            "last_commit": "2026-08-25T21:31:32Z",
             "owner": "hashicorp",
             "repo": "hcl",
             "stars": 5798
@@ -1831,7 +1831,7 @@
             "last_commit": "2026-08-17T09:15:04Z",
             "owner": "jqlang",
             "repo": "awesome-jq",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -1867,7 +1867,7 @@
             "last_commit": "2024-11-22T12:55:41Z",
             "owner": "nst",
             "repo": "JSONTestSuite",
-            "stars": 1159
+            "stars": 1160
           }
         },
         {
@@ -2245,7 +2245,7 @@
             "last_commit": "2026-08-16T19:25:05Z",
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8025
+            "stars": 8027
           }
         },
         {
@@ -2392,7 +2392,7 @@
             "last_commit": "2026-05-02T01:04:21Z",
             "owner": "joelittlejohn",
             "repo": "jsonschema2pojo",
-            "stars": 6380
+            "stars": 6381
           }
         },
         {
@@ -2563,7 +2563,7 @@
             "last_commit": "2026-05-12T07:38:47Z",
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14810
+            "stars": 14811
           }
         },
         {
@@ -2590,7 +2590,7 @@
             "archived": false,
             "id": 22483459,
             "language": "JavaScript",
-            "last_commit": "2022-08-16T16:33:01Z",
+            "last_commit": "2026-08-25T08:33:41Z",
             "owner": "mafintosh",
             "repo": "is-my-json-valid",
             "stars": 963
@@ -2743,7 +2743,7 @@
             "last_commit": "2026-08-24T18:37:54Z",
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4973
+            "stars": 4975
           }
         },
         {
@@ -2781,7 +2781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:33.932Z",
+    "last_updated": "2026-08-26T02:12:15.239Z",
     "original_repository": "burningtree/awesome-json",
     "original_repository_id": 33020765,
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
