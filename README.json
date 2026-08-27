@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-19T10:39:13Z",
                 "owner": "01mf02",
                 "repo": "jaq",
-                "stars": 3727
+                "stars": 3728
               }
             }
           ],
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-23T15:06:16Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35489
+            "stars": 35488
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-08-23T01:31:03Z",
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9253
+            "stars": 9254
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2025-06-20T09:47:47Z",
             "owner": "jpmens",
             "repo": "jo",
-            "stars": 4862
+            "stars": 4863
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-03-27T22:36:45Z",
             "owner": "typicode",
             "repo": "lowdb",
-            "stars": 22575
+            "stars": 22576
           }
         },
         {
@@ -1186,7 +1186,7 @@
             "last_commit": "2026-08-27T01:13:23Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24225
+            "stars": 24227
           }
         },
         {
@@ -2781,9 +2781,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:28:48.598Z",
-    "original_repository": "burningtree/awesome-json",
-    "original_repository_id": 33020765,
+    "last_updated": "2026-08-27T11:46:00.846Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 33020765,
+      "language": null,
+      "last_commit": "2026-06-19T12:25:07Z",
+      "owner": "burningtree",
+      "repo": "awesome-json",
+      "stars": 1564
+    },
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
     "enhanced_repository": "enhansome/enhansome-json",
     "enhanced_repository_description": null,
