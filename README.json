@@ -317,7 +317,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
-            "open_issues": 472,
+            "open_issues": 473,
             "owner": "jqlang",
             "repo": "jq",
             "stars": 35506,
@@ -433,7 +433,7 @@
             "open_issues": 40,
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8669,
+            "stars": 8670,
             "topics": [
               "bash",
               "bash-scripting",
@@ -1719,7 +1719,7 @@
             "open_issues": 140,
             "owner": "nlohmann",
             "repo": "json",
-            "stars": 50478,
+            "stars": 50479,
             "topics": [
               "bson",
               "cbor",
@@ -1760,7 +1760,7 @@
             "open_issues": 134,
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24208,
+            "stars": 24209,
             "topics": [
               "aarch64",
               "arm64",
@@ -2010,7 +2010,7 @@
             "open_issues": 2112,
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25598,
+            "stars": 25599,
             "topics": [
               "android",
               "best-performance",
@@ -2847,7 +2847,7 @@
             "id": 636602722,
             "language": "C",
             "license": null,
-            "last_commit": "2026-08-28T14:54:17Z",
+            "last_commit": "2026-08-29T06:44:26Z",
             "open_issues": 3,
             "owner": "clairey-zx81",
             "repo": "json-model",
@@ -2878,7 +2878,7 @@
             "open_issues": 12,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20594,
+            "stars": 20595,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -3296,7 +3296,7 @@
             "open_issues": 22,
             "owner": "paularmstrong",
             "repo": "normalizr",
-            "stars": 20801,
+            "stars": 20800,
             "topics": [
               "api",
               "flux",
@@ -3592,7 +3592,7 @@
             "open_issues": 16,
             "owner": "logzio",
             "repo": "sawmill",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "geoip",
               "grok",
@@ -4137,7 +4137,7 @@
             "language": "C++",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-27T17:43:55Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "sourcemeta",
             "repo": "jsonschema",
             "stars": 299,
@@ -4243,7 +4243,7 @@
             "open_issues": 376,
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14814,
+            "stars": 14815,
             "topics": [
               "ajv",
               "json-schema",
@@ -4562,7 +4562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:41.125Z",
+    "last_updated": "2026-08-29T07:20:43.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JSON libraries and resources.",
@@ -4571,7 +4571,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-19T12:25:07Z",
-      "open_issues": 97,
+      "open_issues": 98,
       "owner": "burningtree",
       "repo": "awesome-json",
       "stars": 1565,
