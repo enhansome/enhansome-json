@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.",
+            "homepage": null,
             "id": 26409521,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-22T07:25:07Z",
+            "open_issues": 54,
             "owner": "Ahmed-Ali",
             "repo": "JSONExport",
-            "stars": 4806
+            "stars": 4806,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON pretty-viewer for OS X.",
+            "homepage": "http://itunes.apple.com/app/id488709442",
             "id": 2962726,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-11T08:34:10Z",
+            "open_issues": 21,
             "owner": "youknowone",
             "repo": "VisualJSON",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "json",
+              "mac-appstore",
+              "visualizer",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -48,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Makes JSON easy to read.",
+            "homepage": null,
             "id": 5304488,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-26T16:33:51Z",
+            "open_issues": 0,
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4128
+            "stars": 4128,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -64,12 +84,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It is a Chrome extension for printing JSON and JSONP.",
+            "homepage": "https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh",
             "id": 12635853,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-08-20T05:45:16Z",
+            "open_issues": 203,
             "owner": "tulios",
             "repo": "json-viewer",
-            "stars": 3455
+            "stars": 3455,
+            "topics": [
+              "chrome",
+              "chrome-extension",
+              "highlighter",
+              "javascript",
+              "json",
+              "json-viewer",
+              "jsonp"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -80,12 +113,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: A Chrome extension to visualise JSON response and  introduce awesome JSON prettifying experiences.",
+            "homepage": null,
             "id": 80253844,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-21T15:29:15Z",
+            "open_issues": 19,
             "owner": "rbrahul",
             "repo": "Awesome-JSON-Viewer",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "chrome-extension",
+              "json",
+              "json-viewer",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -96,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse JSON like you do it in Finder (Chrome extension).",
+            "homepage": null,
             "id": 8088498,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-09T12:05:08Z",
+            "open_issues": 18,
             "owner": "rapee",
             "repo": "jsonfinder",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -112,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 330101427,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2021-02-20T06:17:32Z",
+            "open_issues": 0,
             "owner": "noitcudni",
             "repo": "discoverable-json",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -128,12 +182,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web extension that helps you view JSON documents in the browser. ",
+            "homepage": "http://jsonview.com",
             "id": 1840419,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-26T17:51:52Z",
+            "open_issues": 1,
             "owner": "bhollis",
             "repo": "jsonview",
-            "stars": 1715
+            "stars": 1715,
+            "topics": [
+              "chrome-extension",
+              "firefox-extension",
+              "json",
+              "jsonview",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -144,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser.",
+            "homepage": "jsonview.com",
             "id": 20739257,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-06-01T00:10:58Z",
+            "open_issues": 8,
             "owner": "acrogenesis",
             "repo": "jsonview-safari",
-            "stars": 292
+            "stars": 292,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -160,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor!",
+            "homepage": null,
             "id": 27138057,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-01T00:12:12Z",
+            "open_issues": 5,
             "owner": "acrogenesis",
             "repo": "JSONAce",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -187,12 +262,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure Go implementation of jq",
+                "homepage": null,
                 "id": 180954037,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T14:26:57Z",
+                "open_issues": 18,
                 "owner": "itchyny",
                 "repo": "gojq",
-                "stars": 3796
+                "stars": 3796,
+                "topics": [
+                  "cli-tool",
+                  "cli-utility",
+                  "go",
+                  "golang",
+                  "json"
+                ]
               },
               "first_seen": "2026-08-28T12:11:11.344Z"
             },
@@ -203,24 +289,41 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jq clone focussed on correctness, speed, and simplicity",
+                "homepage": null,
                 "id": 318753449,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:39:13Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:01:37Z",
+                "open_issues": 22,
                 "owner": "01mf02",
                 "repo": "jaq",
-                "stars": 3729
+                "stars": 3729,
+                "topics": [
+                  "jq",
+                  "json",
+                  "query",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T12:11:11.344Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Command-line JSON processor",
+            "homepage": "https://jqlang.org",
             "id": 5101141,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
+            "open_issues": 472,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35498
+            "stars": 35506,
+            "topics": [
+              "jq"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -231,12 +334,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal JSON viewer & processor",
+            "homepage": "https://fx.wtf",
             "id": 118945118,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:49:32Z",
+            "open_issues": 26,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20600
+            "stars": 20603,
+            "topics": [
+              "cli",
+              "command-line",
+              "json",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -247,12 +360,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make JSON greppable!",
+            "homepage": null,
             "id": 5724223,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-31T15:00:47Z",
+            "open_issues": 50,
             "owner": "tomnomnom",
             "repo": "gron",
-            "stars": 14498
+            "stars": 14499,
+            "topics": [
+              "cli",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -263,12 +384,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal spreadsheet multitool for discovering and arranging data",
+            "homepage": "http://visidata.org",
             "id": 72070681,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T00:09:56Z",
+            "open_issues": 80,
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9256
+            "stars": 9256,
+            "topics": [
+              "cli",
+              "csv",
+              "datajournalism",
+              "datawrangling",
+              "devops-tools",
+              "eda",
+              "hdf5",
+              "json",
+              "opendata",
+              "pandas",
+              "python",
+              "reconciliation",
+              "spreadsheet",
+              "sqlite",
+              "tabular-data",
+              "tsv",
+              "tui",
+              "unix-toolkit"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -279,12 +424,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
+            "homepage": null,
             "id": 215404927,
             "language": "Python",
-            "last_commit": "2026-08-26T19:28:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:45:47Z",
+            "open_issues": 40,
             "owner": "kellyjonbrazil",
             "repo": "jc",
-            "stars": 8669
+            "stars": 8669,
+            "topics": [
+              "bash",
+              "bash-scripting",
+              "cli",
+              "command-line",
+              "command-line-interface",
+              "command-line-tool",
+              "convert",
+              "json",
+              "linux",
+              "parsers",
+              "python",
+              "python-library",
+              "scripting",
+              "serialize",
+              "shell-scripting",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -295,12 +462,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "json incremental digger",
+            "homepage": null,
             "id": 60534669,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-02T01:25:08Z",
+            "open_issues": 10,
             "owner": "simeji",
             "repo": "jid",
-            "stars": 7136
+            "stars": 7136,
+            "topics": [
+              "cli",
+              "go",
+              "golang",
+              "jid",
+              "json",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -311,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON output from a shell",
+            "homepage": "http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/",
             "id": 53133613,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-20T09:47:47Z",
+            "open_issues": 7,
             "owner": "jpmens",
             "repo": "jo",
-            "stars": 4863
+            "stars": 4863,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -327,12 +511,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
+            "homepage": null,
             "id": 446613820,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-30T14:49:59Z",
+            "open_issues": 22,
             "owner": "multiprocessio",
             "repo": "dsq",
-            "stars": 3866
+            "stars": 3865,
+            "topics": [
+              "cli",
+              "csv",
+              "excel",
+              "golang",
+              "json",
+              "openoffice-calc",
+              "parquet",
+              "sql",
+              "tsv"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -343,12 +542,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime log viewer with web UI, tail -f for logs with a web interface browser.",
+            "homepage": "https://logdy.dev",
             "id": 747929369,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-25T14:43:56Z",
+            "open_issues": 36,
             "owner": "logdyhq",
             "repo": "logdy-core",
-            "stars": 2283
+            "stars": 2284,
+            "topics": [
+              "developer-experience",
+              "developer-productivity",
+              "golang-logger",
+              "log",
+              "log-viewer",
+              "logger",
+              "logging",
+              "logging-library",
+              "logging-server",
+              "logs",
+              "logs-view",
+              "logviewer",
+              "self-hosted",
+              "selfhosted"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -359,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like awk, but for JSON.",
+            "homepage": null,
             "id": 209968,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-08-31T15:23:11Z",
+            "open_issues": 28,
             "owner": "micha",
             "repo": "jsawk",
-            "stars": 1385
+            "stars": 1385,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -375,12 +599,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized JSON for Go",
+            "homepage": null,
             "id": 255132844,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-22T04:16:34Z",
+            "open_issues": 0,
             "owner": "ohler55",
             "repo": "ojg",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "fast",
+              "golang",
+              "json",
+              "jsonpath",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -391,12 +626,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "jid on jq - interactive JSON query tool using jq expressions",
+            "homepage": null,
             "id": 75506949,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-01-09T17:59:27Z",
+            "open_issues": 17,
             "owner": "fiatjaf",
             "repo": "jiq",
-            "stars": 930
+            "stars": 930,
+            "topics": [
+              "cli",
+              "command-line",
+              "jq",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -407,12 +652,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Functional sed for JSON",
+            "homepage": null,
             "id": 97342210,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-05-17T07:42:09Z",
+            "open_issues": 5,
             "owner": "chrisdone-archive",
             "repo": "jl",
-            "stars": 475
+            "stars": 475,
+            "topics": [
+              "command-line",
+              "command-line-tool",
+              "haskell",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -423,12 +678,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helps you view JSON on the command-line.",
+            "homepage": null,
             "id": 93555111,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-10-30T10:53:29Z",
+            "open_issues": 3,
             "owner": "maxzender",
             "repo": "jv",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "cli",
+              "go",
+              "golang",
+              "json",
+              "termbox-go",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -439,12 +706,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSV, JSON, XML text parsers and generators written in pure POSIX shellscript",
+            "homepage": null,
             "id": 24538792,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-06-18T18:02:04Z",
+            "open_issues": 0,
             "owner": "ShellShoccar-jpn",
             "repo": "Parsrs",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "csv",
+              "json",
+              "posix",
+              "shellscript",
+              "unix",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -455,12 +734,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Json pretty-print parser based on a recursive lexical analyser ",
+            "homepage": null,
             "id": 42481968,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-10-05T13:59:48Z",
+            "open_issues": 3,
             "owner": "pantuza",
             "repo": "jsoncat",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "c",
+              "clang",
+              "cli",
+              "json",
+              "jsoncat",
+              "parser",
+              "pretty-print"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -471,12 +763,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternative jq implementation in rust for continuous parsing without crashing on invalid JSON, with Filtration support. ",
+            "homepage": "https://crates.io/crates/livejq",
             "id": 672550293,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-08-25T14:30:49Z",
+            "open_issues": 1,
             "owner": "KunalSin9h",
             "repo": "livejq",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cli",
+              "json",
+              "parsing",
+              "rust",
+              "serde"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -487,12 +790,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manipulate and extract envfiles in json format.",
+            "homepage": null,
             "id": 173406489,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-26T18:33:20Z",
+            "open_issues": 0,
             "owner": "decryptus",
             "repo": "json-dotenv",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "cli",
+              "dotenv",
+              "envfile",
+              "environment-variables",
+              "json",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -503,12 +818,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small utile to search trough json.",
+            "homepage": null,
             "id": 326179672,
             "language": "C",
+            "license": "WTFPL",
             "last_commit": "2026-08-10T15:32:34Z",
+            "open_issues": 3,
             "owner": "cosmo-ray",
             "repo": "json-search",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -519,12 +841,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1124402729,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-29T08:46:06Z",
+            "open_issues": 0,
             "owner": "rxzzh",
             "repo": "jsonskim",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -541,12 +868,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+            "homepage": null,
             "id": 14747598,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
+            "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75698
+            "stars": 75698,
+            "topics": [
+              "api",
+              "fake",
+              "frontend",
+              "json",
+              "mock",
+              "rest",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -557,12 +897,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/",
+            "homepage": "https://rxdb.info/",
             "id": 75425073,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:09:40Z",
+            "open_issues": 21,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23370
+            "stars": 23370,
+            "topics": [
+              "angular",
+              "browser-database",
+              "couchdb",
+              "crdt",
+              "database",
+              "firebase",
+              "graphql",
+              "indexeddb",
+              "ionic",
+              "local-first",
+              "localstorage",
+              "nodejs",
+              "nosql",
+              "postgres",
+              "pouchdb",
+              "react-native",
+              "realtime",
+              "realtime-database",
+              "rxdb",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -573,12 +939,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and fast JSON database",
+            "homepage": null,
             "id": 18351848,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-27T22:36:45Z",
+            "open_issues": 16,
             "owner": "typicode",
             "repo": "lowdb",
-            "stars": 22576
+            "stars": 22576,
+            "topics": [
+              "database",
+              "electron",
+              "embeddable",
+              "embedded-database",
+              "javascript",
+              "json",
+              "localstorage",
+              "lodash",
+              "nodejs",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -589,12 +971,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic JSON document store with sharing and synchronisation capabilities.",
+            "homepage": "http://docs.kinto-storage.org/",
             "id": 31315021,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T22:12:04Z",
+            "open_issues": 95,
             "owner": "Kinto",
             "repo": "kinto",
-            "stars": 4418
+            "stars": 4418,
+            "topics": [
+              "api",
+              "decentralisation",
+              "http",
+              "storage",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -605,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight clientside JSON document store,",
+            "homepage": "http://brianleroux.github.com/lawnchair",
             "id": 246773,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-17T19:39:17Z",
+            "open_issues": 86,
             "owner": "brianleroux",
             "repo": "lawnchair",
-            "stars": 2126
+            "stars": 2126,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -621,12 +1019,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":snowboarder: EJDB2 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL).",
+            "homepage": null,
             "id": 6427744,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:56:06Z",
+            "open_issues": 35,
             "owner": "Softmotions",
             "repo": "ejdb",
-            "stars": 1479
+            "stars": 1479,
+            "topics": [
+              "android",
+              "c",
+              "dart",
+              "database",
+              "ejdb",
+              "embedded",
+              "flutter",
+              "ios",
+              "java",
+              "jni",
+              "json",
+              "key-value",
+              "kv-store",
+              "nodejs",
+              "nosql",
+              "osx",
+              "react-native",
+              "reactnative",
+              "swift",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -637,12 +1061,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, self-contained, serverless, zero-configuration, json document store.",
+            "homepage": null,
             "id": 42909809,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-03T02:19:46Z",
+            "open_issues": 2,
             "owner": "nodesocket",
             "repo": "jsonlite",
-            "stars": 843
+            "stars": 843,
+            "topics": [
+              "bash",
+              "bash-script",
+              "database",
+              "databases",
+              "document-database",
+              "document-store",
+              "json",
+              "json-data",
+              "json-document",
+              "jsonlite"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -653,12 +1093,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSON ODM (object document mapper) for JavaScript to use on the server or in the browser.",
+            "homepage": null,
             "id": 31983550,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-08T13:21:37Z",
+            "open_issues": 1,
             "owner": "konsultaner",
             "repo": "jsonOdm",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "database",
+              "document-mapper",
+              "javascript",
+              "json",
+              "odm"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -675,12 +1126,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World countries in JSON, YAML, CSV and XML. Any help is welcome!",
+            "homepage": "https://mledoze.github.io/countries/",
             "id": 3118246,
             "language": "PHP",
+            "license": "ODbL-1.0",
             "last_commit": "2026-07-20T13:06:21Z",
+            "open_issues": 17,
             "owner": "mledoze",
             "repo": "countries",
-            "stars": 6256
+            "stars": 6256,
+            "topics": [
+              "countries",
+              "csv",
+              "geojson",
+              "json",
+              "php",
+              "topojson",
+              "xml",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -697,12 +1162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps.",
+            "homepage": null,
             "id": 6969835,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2021-11-06T12:23:36Z",
+            "open_issues": 34,
             "owner": "jsonmodel",
             "repo": "jsonmodel",
-            "stars": 6809
+            "stars": 6809,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -719,12 +1189,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Node server for dynamic, fake JSON.",
+            "homepage": null,
             "id": 7587268,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-13T22:22:59Z",
+            "open_issues": 13,
             "owner": "webpro",
             "repo": "dyson",
-            "stars": 832
+            "stars": 832,
+            "topics": [
+              "dummy",
+              "javascript",
+              "json",
+              "mock",
+              "server",
+              "stub"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -735,12 +1217,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Anonymize JSON values, easily.",
+            "homepage": null,
             "id": 24751284,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-06-21T21:48:44Z",
+            "open_issues": 0,
             "owner": "cameronhunter",
             "repo": "jsonymize",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -757,12 +1244,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diff & patch JavaScript objects",
+            "homepage": "https://jsondiffpatch.com",
             "id": 2624312,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T22:54:47Z",
+            "open_issues": 55,
             "owner": "benjamine",
             "repo": "jsondiffpatch",
-            "stars": 5337
+            "stars": 5337,
+            "topics": [
+              "delta",
+              "diff",
+              "diffing",
+              "json",
+              "jsondiffpatch",
+              "patch",
+              "text-diff"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -773,12 +1273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). Update JSON documents using delta patches.",
+            "homepage": null,
             "id": 8818872,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-23T20:48:55Z",
+            "open_issues": 83,
             "owner": "Starcounter-Jack",
             "repo": "JSON-Patch",
-            "stars": 1982
+            "stars": 1982,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -789,12 +1294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Patch and diff based on rfc6902",
+            "homepage": null,
             "id": 18996619,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-11T11:19:56Z",
+            "open_issues": 16,
             "owner": "cujojs",
             "repo": "jiff",
-            "stars": 641
+            "stars": 641,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -805,12 +1315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A micro library for diffing and patching JSON objects using a compact diff format",
+            "homepage": null,
             "id": 27598070,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-11T04:09:08Z",
+            "open_issues": 1,
             "owner": "paldepind",
             "repo": "dffptch",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -821,12 +1336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP implementation of JSON-patch (IETF RFC 6902)",
+            "homepage": null,
             "id": 4902346,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-02-26T14:06:26Z",
+            "open_issues": 13,
             "owner": "mikemccabe",
             "repo": "json-patch-php",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -843,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specification",
+            "homepage": null,
             "id": 11203131,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-20T14:43:02Z",
+            "open_issues": 17,
             "owner": "ndjson",
             "repo": "ndjson-spec",
-            "stars": 846
+            "stars": 846,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -859,12 +1384,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON for Humans (ES6)",
+            "homepage": null,
             "id": 97155712,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-18T05:27:24Z",
+            "open_issues": 7,
             "owner": "d3x0r",
             "repo": "JSON6",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "javascript",
+              "json",
+              "json-parsing"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -875,12 +1409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A way of creating music sequence data in JSON",
+            "homepage": null,
             "id": 27285406,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-29T22:28:13Z",
+            "open_issues": 5,
             "owner": "soundio",
             "repo": "sequence",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -891,12 +1430,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON-stat GitHub Repository",
+            "homepage": null,
             "id": 14665852,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-08T14:36:53Z",
+            "open_issues": 2,
             "owner": "jsonstat",
             "repo": "jsonstat",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "cube",
+              "data",
+              "government",
+              "jsonstat",
+              "nsi",
+              "stats",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -907,12 +1459,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic way of keeping secrets secure in JSON",
+            "homepage": null,
             "id": 138967798,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-29T15:25:19Z",
+            "open_issues": 0,
             "owner": "rosehgal",
             "repo": "jackson",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "json-parser",
+              "python",
+              "secret-in-json",
+              "secret-management"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -929,12 +1491,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 JSON powered / Dynamic forms for Angular",
+            "homepage": "https://formly.dev",
             "id": 33647441,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T17:07:24Z",
+            "open_issues": 38,
             "owner": "ngx-formly",
             "repo": "ngx-formly",
-            "stars": 2966
+            "stars": 2966,
+            "topics": [
+              "angular",
+              "bootstrap",
+              "dynamic-forms",
+              "formly",
+              "forms",
+              "ionic",
+              "json-forms",
+              "json-schema",
+              "kendo-ui",
+              "material",
+              "nativescript",
+              "ng-zorro",
+              "ng-zorro-antd",
+              "primeng",
+              "schematics"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -945,12 +1528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A more-fun, semantic, alternative to datatables",
+            "homepage": "http://www.dynatable.com",
             "id": 2913117,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-25T20:46:46Z",
+            "open_issues": 228,
             "owner": "alfajango",
             "repo": "jquery-dynatable",
-            "stars": 2751
+            "stars": 2751,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -961,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON editor jQuery plugin",
+            "homepage": "http://jsonmate.com",
             "id": 2512872,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-05T10:36:16Z",
+            "open_issues": 19,
             "owner": "DavidDurman",
             "repo": "FlexiJsonEditor",
-            "stars": 565
+            "stars": 565,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -977,12 +1570,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "not only a JSON viewer",
+            "homepage": "https://viewer.textea.io",
             "id": 523772558,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-04T18:17:50Z",
+            "open_issues": 27,
             "owner": "TexteaInc",
             "repo": "json-viewer",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "data-editor",
+              "data-viewer",
+              "json-editor",
+              "json-viewer",
+              "react",
+              "reactjs",
+              "tree-editor",
+              "tree-viewer",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -993,12 +1601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular directive for collapsible JSON in HTML ",
+            "homepage": "http://azimi.me/json-formatter/demo/demo.html",
             "id": 22541875,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-17T13:42:18Z",
+            "open_issues": 21,
             "owner": "mohsen1",
             "repo": "json-formatter",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1015,12 +1628,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C library for encoding, decoding and manipulating JSON data",
+            "homepage": "http://www.digip.org/jansson/",
             "id": 183362,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-09T17:43:34Z",
+            "open_issues": 128,
             "owner": "akheron",
             "repo": "jansson",
-            "stars": 3359
+            "stars": 3359,
+            "topics": [
+              "c",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1031,12 +1652,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny, zero-allocation JSON serializer written in ANSI C",
+            "homepage": null,
             "id": 452311367,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-04-12T04:14:52Z",
+            "open_issues": 0,
             "owner": "lcsmuller",
             "repo": "json-build",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "ansi",
+              "c89",
+              "embedded",
+              "json",
+              "serializer",
+              "stack",
+              "zero-allocation"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1047,12 +1681,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized JSON in C",
+            "homepage": null,
             "id": 20074732,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-04-24T21:40:21Z",
+            "open_issues": 1,
             "owner": "ohler55",
             "repo": "ojc",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "callback",
+              "fast",
+              "json",
+              "json-elements",
+              "json-parsing",
+              "ojc",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1063,12 +1710,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON for Modern C++",
+            "homepage": "https://json.nlohmann.me",
             "id": 11171548,
             "language": "C++",
-            "last_commit": "2026-08-27T16:22:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:49:22Z",
+            "open_issues": 140,
             "owner": "nlohmann",
             "repo": "json",
-            "stars": 50473
+            "stars": 50478,
+            "topics": [
+              "bson",
+              "cbor",
+              "header-only",
+              "json",
+              "json-diff",
+              "json-merge-patch",
+              "json-parser",
+              "json-patch",
+              "json-pointer",
+              "json-serialization",
+              "messagepack",
+              "msgpack",
+              "rfc-6901",
+              "rfc-6902",
+              "rfc-7049",
+              "rfc-7159",
+              "rfc-8259",
+              "stl-containers",
+              "ubjson"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1079,12 +1751,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+            "homepage": "https://simdjson.org",
             "id": 126412363,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:15:20Z",
+            "open_issues": 134,
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24206
+            "stars": 24208,
+            "topics": [
+              "aarch64",
+              "arm64",
+              "avx2",
+              "avx512",
+              "c-plus-plus",
+              "clang",
+              "clang-cl",
+              "cpp11",
+              "gcc-compiler",
+              "json",
+              "json-parser",
+              "json-pointer",
+              "loongarch",
+              "loongarch64",
+              "neon",
+              "risc-v",
+              "simd",
+              "sse42",
+              "vs2019",
+              "x64"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1095,12 +1793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+            "homepage": "http://rapidjson.org/",
             "id": 17391973,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-05T13:28:08Z",
+            "open_issues": 790,
             "owner": "Tencent",
             "repo": "rapidjson",
-            "stars": 15122
+            "stars": 15121,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1111,12 +1814,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📟 JSON library for Arduino and embedded C++. Simple and efficient.",
+            "homepage": "https://arduinojson.org",
             "id": 15802263,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-15T10:39:44Z",
+            "open_issues": 17,
             "owner": "bblanchon",
             "repo": "ArduinoJson",
-            "stars": 7206
+            "stars": 7206,
+            "topics": [
+              "arduino",
+              "arduino-library",
+              "c-plus-plus",
+              "embedded",
+              "esp32",
+              "esp8266",
+              "iot",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1127,12 +1844,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tiny JSON library for C++11.",
+            "homepage": null,
             "id": 12655652,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-03-25T23:27:28Z",
+            "open_issues": 20,
             "owner": "dropbox",
             "repo": "json11",
-            "stars": 2588
+            "stars": 2588,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1143,12 +1865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "json++",
+            "homepage": null,
             "id": 14464447,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2016-06-15T04:23:03Z",
+            "open_issues": 6,
             "owner": "tunnuz",
             "repo": "json",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1159,12 +1886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast JSON for modern C++",
+            "homepage": null,
             "id": 1032907399,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-09-05T04:51:20Z",
+            "open_issues": 0,
             "owner": "qinyonghang",
             "repo": "json",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1175,12 +1907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON in Clojure",
+            "homepage": null,
             "id": 1468275,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2026-01-02T14:48:11Z",
+            "open_issues": 2,
             "owner": "clojure",
             "repo": "data.json",
-            "stars": 578
+            "stars": 578,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1191,12 +1928,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Modern Fortran JSON API",
+            "homepage": "https://jacobwilliams.github.io/json-fortran/",
             "id": 16651246,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-11T11:25:28Z",
+            "open_issues": 25,
             "owner": "jacobwilliams",
             "repo": "json-fortran",
-            "stars": 381
+            "stars": 382,
+            "topics": [
+              "fortran",
+              "fortran-package-manager",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1207,12 +1953,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized JSON for Go",
+            "homepage": null,
             "id": 255132844,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-22T04:16:34Z",
+            "open_issues": 0,
             "owner": "ohler55",
             "repo": "ojg",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "fast",
+              "golang",
+              "json",
+              "jsonpath",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1223,12 +1980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON quasiquoter for Haskell",
+            "homepage": "http://hackage.haskell.org/package/aeson-qq",
             "id": 1623123,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2023-05-21T12:45:15Z",
+            "open_issues": 3,
             "owner": "sol",
             "repo": "aeson-qq",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1239,12 +2001,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",
+            "homepage": "https://github.com/alibaba/fastjson2/wiki/fastjson_1_upgrade_cn",
             "id": 2700474,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T08:04:40Z",
+            "open_issues": 2112,
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25598
+            "stars": 25598,
+            "topics": [
+              "android",
+              "best-performance",
+              "deserialization",
+              "fastjson",
+              "java",
+              "json",
+              "json-parser",
+              "json-serialization",
+              "json-serializer",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1255,12 +2033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+            "homepage": null,
             "id": 32538871,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T01:13:23Z",
+            "open_issues": 340,
             "owner": "google",
             "repo": "gson",
-            "stars": 24229
+            "stars": 24229,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1271,12 +2054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern JSON library for Kotlin and Java.",
+            "homepage": "https://square.github.io/moshi/1.x/",
             "id": 22789601,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:55:13Z",
+            "open_issues": 113,
             "owner": "square",
             "repo": "moshi",
-            "stars": 10156
+            "stars": 10156,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1287,12 +2075,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Portal page for the Jackson project",
+            "homepage": null,
             "id": 2604249,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-17T03:05:02Z",
+            "open_issues": 0,
             "owner": "FasterXML",
             "repo": "jackson",
-            "stars": 9803
+            "stars": 9803,
+            "topics": [
+              "hacktoberfest",
+              "jackson",
+              "java-json",
+              "java-json-library"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1303,12 +2101,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reference implementation of a JSON package in Java.",
+            "homepage": "http://stleary.github.io/JSON-java/index.html",
             "id": 1187853,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:22:45Z",
+            "open_issues": 20,
             "owner": "stleary",
             "repo": "JSON-java",
-            "stars": 4718
+            "stars": 4718,
+            "topics": [
+              "hacktoberfest",
+              "java",
+              "json",
+              "public-domain"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1319,12 +2127,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance JVM JSON library",
+            "homepage": "https://dsl-platform.com",
             "id": 45384078,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T12:28:41Z",
+            "open_issues": 49,
             "owner": "ngs-doo",
             "repo": "dsl-json",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "android",
+              "high-performance",
+              "java",
+              "json",
+              "kotlin",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1335,12 +2155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lean JSON Library for Java, with a compact, elegant API.",
+            "homepage": null,
             "id": 17200490,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-28T06:02:42Z",
+            "open_issues": 19,
             "owner": "bolerio",
             "repo": "mjson",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1351,12 +2176,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON without fuss",
+            "homepage": null,
             "id": 230427750,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-30T17:23:39Z",
+            "open_issues": 0,
             "owner": "arkanovicz",
             "repo": "essential-json",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "java",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1367,12 +2200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON in JavaScript",
+            "homepage": "http://www.JSON.org/",
             "id": 1092277,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-10T23:28:16Z",
+            "open_issues": 0,
             "owner": "douglascrockford",
             "repo": "JSON-js",
-            "stars": 8718
+            "stars": 8718,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1383,12 +2221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.",
+            "homepage": "http://jimhigson.github.io/oboe.js-website/index.html",
             "id": 8710850,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-17T12:34:01Z",
+            "open_issues": 119,
             "owner": "jimhigson",
             "repo": "oboe.js",
-            "stars": 4817
+            "stars": 4817,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1399,12 +2242,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast lossless JSON parse event streaming, in JavaScript.",
+            "homepage": null,
             "id": 378699055,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-24T21:28:21Z",
+            "open_issues": 4,
             "owner": "xtao-org",
             "repo": "jsonhilo",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "deno",
+              "fast",
+              "high-level",
+              "high-performance",
+              "javascript",
+              "json",
+              "jsonhilo",
+              "large-language-models",
+              "lossless",
+              "low-level",
+              "minimal",
+              "modular",
+              "parser",
+              "runtime-independent",
+              "sax",
+              "sax-parser",
+              "streaming",
+              "ultra-fast",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1415,12 +2283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Objective-C JSON",
+            "homepage": null,
             "id": 800294,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2020-11-22T17:51:42Z",
+            "open_issues": 103,
             "owner": "johnezang",
             "repo": "JSONKit",
-            "stars": 6176
+            "stars": 6176,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1431,12 +2304,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This framework implements a strict JSON parser and generator in Objective-C.",
+            "homepage": null,
             "id": 721040,
             "language": "Objective-C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-18T09:03:38Z",
+            "open_issues": 1,
             "owner": "SBJson",
             "repo": "SBJson",
-            "stars": 3717
+            "stars": 3717,
+            "topics": [
+              "carthage",
+              "chunk",
+              "json",
+              "objective-c",
+              "parsing",
+              "sbjson"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1447,12 +2332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perl module for encoding and decoding JSON in a minimalistic way, based on Mojo::JSON, adapted to stand alone.",
+            "homepage": null,
             "id": 5979657,
             "language": "Perl",
+            "license": "Artistic-2.0",
             "last_commit": "2017-11-12T16:01:09Z",
+            "open_issues": 0,
             "owner": "daoswald",
             "repo": "JSON-Tiny",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1463,12 +2353,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PL/JSON is a generic JSON object written in PL/SQL. Using PL/SQL object syntax, users instantiate a JSON object and then add members, arrays and additional JSON objects. This object type can store JSON data, in Oracle, persistently.",
+            "homepage": "http://pljson.github.io/pljson/",
             "id": 13413875,
             "language": "PLSQL",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-26T18:47:52Z",
+            "open_issues": 7,
             "owner": "pljson",
             "repo": "pljson",
-            "stars": 460
+            "stars": 460,
+            "topics": [
+              "json",
+              "oracle",
+              "plsql",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1479,12 +2379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust JSON decoder/encoder with support for schema validation.",
+            "homepage": null,
             "id": 26802612,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-03-06T12:39:57Z",
+            "open_issues": 12,
             "owner": "webmozart",
             "repo": "json",
-            "stars": 352
+            "stars": 352,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1495,12 +2400,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight PHP library for encoding/decoding TOON (Token-Oriented Object Notation). A human-readable, LLM-friendly alternative to JSON.",
+            "homepage": null,
             "id": 1095532215,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-11-19T11:42:08Z",
+            "open_issues": 0,
             "owner": "manojrammurthy",
             "repo": "toon-php-lite",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "decoder",
+              "encoder",
+              "json",
+              "lightweight-php-library",
+              "llm",
+              "llm-format",
+              "parser",
+              "php",
+              "structured-data",
+              "token-oriented-notation",
+              "toon"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1511,12 +2433,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simplejson is a simple, fast, extensible JSON encoder/decoder for Python ",
+            "homepage": "https://simplejson.readthedocs.io/",
             "id": 1333666,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T06:09:30Z",
+            "open_issues": 13,
             "owner": "simplejson",
             "repo": "simplejson",
-            "stars": 1711
+            "stars": 1711,
+            "topics": [
+              "json",
+              "json-parser",
+              "json-serializer",
+              "python",
+              "python2",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1527,12 +2461,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized JSON",
+            "homepage": "http://www.ohler.com/oj",
             "id": 3468618,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-13T16:41:39Z",
+            "open_issues": 14,
             "owner": "ohler55",
             "repo": "oj",
-            "stars": 3225
+            "stars": 3225,
+            "topics": [
+              "c",
+              "json",
+              "json-parser",
+              "marshaller",
+              "oj-gem",
+              "rails",
+              "ruby",
+              "ruby-json-parser"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1543,12 +2491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic swappable back-end for JSON handling.",
+            "homepage": "http://rdoc.info/projects/intridea/multi_json",
             "id": 718963,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-06-24T19:55:37Z",
+            "open_issues": 2,
             "owner": "intridea",
             "repo": "multi_json",
-            "stars": 765
+            "stars": 765,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1559,12 +2512,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use JSON to create React Components.",
+            "homepage": null,
             "id": 55326903,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-30T18:40:29Z",
+            "open_issues": 2,
             "owner": "txgruppi",
             "repo": "json2react",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "json",
+              "react",
+              "schema",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1575,12 +2538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JsonFx v2.0 - JSON serialization framework for .NET",
+            "homepage": "http://jsonfx.net/license",
             "id": 822377,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2016-12-24T03:24:49Z",
+            "open_issues": 20,
             "owner": "jsonfx",
             "repo": "jsonfx",
-            "stars": 378
+            "stars": 378,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1591,12 +2559,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Client framework for consuming JSONAPI services",
+            "homepage": null,
             "id": 121119927,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-07T18:40:05Z",
+            "open_issues": 1,
             "owner": "OKTAYKIR",
             "repo": "jsonapi-consumer",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "client-library",
+              "consuming-jsonapi-services",
+              "dotnet-core",
+              "dotnet-standard",
+              "dotnetcore",
+              "framework",
+              "json",
+              "json-api",
+              "jsonapi",
+              "jsonapi-library",
+              "jsonapiclient",
+              "netstandard16",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1607,12 +2594,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another JSON library for Scala",
+            "homepage": "http://circe.io/circe/",
             "id": 40011080,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T08:36:23Z",
+            "open_issues": 127,
             "owner": "circe",
             "repo": "circe",
-            "stars": 2542
+            "stars": 2542,
+            "topics": [
+              "generic-derivation",
+              "json",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1623,12 +2619,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, clean and simple JSON implementation in Scala",
+            "homepage": null,
             "id": 1713422,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-10T20:17:55Z",
+            "open_issues": 100,
             "owner": "spray",
             "repo": "spray-json",
-            "stars": 971
+            "stars": 971,
+            "topics": [
+              "json",
+              "json-parser",
+              "json-serialization",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1639,12 +2645,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster",
+            "homepage": null,
             "id": 104897792,
             "language": "Scala",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:20:55Z",
+            "open_issues": 99,
             "owner": "plokhotnyuk",
             "repo": "jsoniter-scala",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "circe",
+              "high-performance",
+              "jmh-benchmarks",
+              "json",
+              "jsoniter-scala",
+              "jvm",
+              "library",
+              "macros",
+              "parsing",
+              "scala",
+              "scala-js",
+              "scala-library",
+              "scala-native",
+              "scala3",
+              "scalajs",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1655,12 +2683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scala support library for integrating the JSON API spec with Spray, Play! or Circe",
+            "homepage": null,
             "id": 45837479,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-28T12:29:57Z",
+            "open_issues": 13,
             "owner": "scala-jsonapi",
             "repo": "scala-jsonapi",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1671,12 +2704,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The better way to deal with JSON data in Swift.",
+            "homepage": null,
             "id": 20965586,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-18T07:07:07Z",
+            "open_issues": 139,
             "owner": "SwiftyJSON",
             "repo": "SwiftyJSON",
-            "stars": 22949
+            "stars": 22950,
+            "topics": [
+              "carthage",
+              "cocoapods",
+              "json",
+              "json-parser",
+              "json-parsing-library",
+              "json-parsing-swift",
+              "request",
+              "response",
+              "swift",
+              "swiftyjson"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1687,12 +2736,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest JSON library in C",
+            "homepage": "https://ibireme.github.io/yyjson/doc/doxygen/html/",
             "id": 302298095,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:01:16Z",
+            "open_issues": 41,
             "owner": "ibireme",
             "repo": "yyjson",
-            "stars": 3851
+            "stars": 3853,
+            "topics": [
+              "ansi-c",
+              "c",
+              "c89",
+              "cross-platform",
+              "deserialization",
+              "json",
+              "json5",
+              "portable",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1709,12 +2773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSON parser and validator with a CLI.",
+            "homepage": "http://zaach.github.com/jsonlint/",
             "id": 560990,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-07-12T19:08:22Z",
+            "open_issues": 80,
             "owner": "zaach",
             "repo": "jsonlint",
-            "stars": 1992
+            "stars": 1992,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1725,12 +2794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Lint for PHP",
+            "homepage": null,
             "id": 2973808,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-01T12:42:10Z",
+            "open_issues": 1,
             "owner": "Seldaek",
             "repo": "jsonlint",
-            "stars": 1325
+            "stars": 1325,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1747,12 +2821,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "schema validator and data binding for YAML/JSON",
+            "homepage": "http://www.kuwata-lab.com/kwalify/",
             "id": 390544,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-01-24T16:09:31Z",
+            "open_issues": 1,
             "owner": "kvs",
             "repo": "kwalify",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1763,12 +2842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Model Tools",
+            "homepage": null,
             "id": 636602722,
             "language": "C",
-            "last_commit": "2026-08-28T07:02:26Z",
+            "license": null,
+            "last_commit": "2026-08-28T14:54:17Z",
+            "open_issues": 3,
             "owner": "clairey-zx81",
             "repo": "json-model",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1785,12 +2869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tom's Obvious, Minimal Language",
+            "homepage": "https://toml.io",
             "id": 8385616,
             "language": null,
-            "last_commit": "2026-07-03T10:35:59Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:47:57Z",
+            "open_issues": 12,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20591
+            "stars": 20594,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1801,12 +2890,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "configuration library for JVM languages using HOCON files",
+            "homepage": "https://lightbend.github.io/config/",
             "id": 2923236,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-01T15:19:54Z",
+            "open_issues": 242,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6313
+            "stars": 6313,
+            "topics": [
+              "configuration-library",
+              "hocon",
+              "supported"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1817,12 +2915,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HCL is the HashiCorp configuration language.",
+            "homepage": null,
             "id": 22485114,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T15:56:59Z",
+            "open_issues": 235,
             "owner": "hashicorp",
             "repo": "hcl",
-            "stars": 5798
+            "stars": 5799,
+            "topics": [
+              "configuration-language",
+              "hashicorp",
+              "hcl",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1833,12 +2941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON for Humans - with unquoted identifiers, multi-line strings and comments",
+            "homepage": null,
             "id": 12094939,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2023-02-01T12:56:40Z",
+            "open_issues": 5,
             "owner": "timjansen",
             "repo": "hanson",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1849,12 +2962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "μson (uson) is a shorthand for JSON",
+            "homepage": null,
             "id": 33459252,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-30T18:29:12Z",
+            "open_issues": 12,
             "owner": "burningtree",
             "repo": "uson",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1865,12 +2983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to parse and manipulate an algebraic superset/semantic application of JSON",
+            "homepage": null,
             "id": 9230357,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2015-03-07T03:31:51Z",
+            "open_issues": 1,
             "owner": "sadmac7000",
             "repo": "libason",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1887,12 +3010,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.",
+            "homepage": null,
             "id": 1835751,
             "language": "CoffeeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:21:15Z",
+            "open_issues": 4,
             "owner": "bevry",
             "repo": "cson",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "coffeescript",
+              "cson",
+              "data-format",
+              "executable",
+              "json",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1903,12 +3038,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Markdown Syntax for Object Notation",
+            "homepage": null,
             "id": 18439299,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-06-11T11:51:31Z",
+            "open_issues": 24,
             "owner": "apiaryio",
             "repo": "mson",
-            "stars": 899
+            "stars": 899,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1919,12 +3059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the mirror of pyaxon repository http://bitbucket.org/intellimath/pyaxon",
+            "homepage": null,
             "id": 12541532,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-08-06T15:58:22Z",
+            "open_issues": 0,
             "owner": "intellimath",
             "repo": "pyaxon",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1941,12 +3086,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome jq tools and resources.",
+            "homepage": null,
             "id": 121669629,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-17T09:15:04Z",
+            "open_issues": 5,
             "owner": "jqlang",
             "repo": "awesome-jq",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "awesome",
+              "jq"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1957,12 +3110,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👾 JS type systems interportability",
+            "homepage": null,
             "id": 117700696,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-14T10:32:09Z",
+            "open_issues": 1,
             "owner": "stereobooster",
             "repo": "type-o-rama",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "closure-compiler",
+              "elm",
+              "flow",
+              "graphql-schema",
+              "jsdoc",
+              "json-schema",
+              "purescript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -1979,12 +3146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive test suite for RFC 8259 compliant JSON parsers",
+            "homepage": null,
             "id": 71723822,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-11-22T12:55:41Z",
+            "open_issues": 53,
             "owner": "nst",
             "repo": "JSONTestSuite",
-            "stars": 1164
+            "stars": 1164,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -1995,12 +3167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write JSON unit tests in less code. Great for testing REST interfaces.",
+            "homepage": "http://jsonassert.skyscreamer.org",
             "id": 3329435,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-28T18:03:56Z",
+            "open_issues": 94,
             "owner": "skyscreamer",
             "repo": "JSONassert",
-            "stars": 1056
+            "stars": 1056,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2011,12 +3188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compare JSON in your Unit Tests",
+            "homepage": null,
             "id": 3296177,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T04:52:29Z",
+            "open_issues": 14,
             "owner": "lukas-krecan",
             "repo": "JsonUnit",
-            "stars": 1004
+            "stars": 1004,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2033,12 +3215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reformat tool for JSON",
+            "homepage": null,
             "id": 17214548,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2022-09-06T00:44:43Z",
+            "open_issues": 0,
             "owner": "gongo",
             "repo": "json-reformat",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2049,12 +3236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.",
+            "homepage": null,
             "id": 4598738,
             "language": "Vim script",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-19T21:51:36Z",
+            "open_issues": 45,
             "owner": "elzr",
             "repo": "vim-json",
-            "stars": 1230
+            "stars": 1230,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2065,12 +3257,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Populate the quickfix with json entries",
+            "homepage": null,
             "id": 344514269,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-05-31T01:26:20Z",
+            "open_issues": 2,
             "owner": "gennaro-tedesco",
             "repo": "nvim-jqx",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "lua",
+              "neovim"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2087,12 +3287,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Normalizes nested JSON according to a schema",
+            "homepage": null,
             "id": 23141830,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-19T22:44:12Z",
+            "open_issues": 22,
             "owner": "paularmstrong",
             "repo": "normalizr",
-            "stars": 20801
+            "stars": 20801,
+            "topics": [
+              "api",
+              "flux",
+              "javascript",
+              "json",
+              "normalize",
+              "normalizr",
+              "reactjs",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2103,12 +3317,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.",
+            "homepage": "https://naturalintelligence.github.io/fast-xml-parser/",
             "id": 80317682,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:13:00Z",
+            "open_issues": 12,
             "owner": "NaturalIntelligence",
             "repo": "fast-xml-parser",
-            "stars": 3135
+            "stars": 3135,
+            "topics": [
+              "cli",
+              "command-line",
+              "fast",
+              "fast-xml-parser",
+              "js",
+              "js2xml",
+              "json",
+              "json2xml",
+              "locale",
+              "parser",
+              "rapid",
+              "validate",
+              "validator",
+              "xml",
+              "xml2js",
+              "xml2json",
+              "xml2nimn"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2119,12 +3356,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map nested JSON structures onto PHP classes",
+            "homepage": null,
             "id": 16281650,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2026-06-30T04:12:07Z",
+            "open_issues": 2,
             "owner": "cweiske",
             "repo": "jsonmapper",
-            "stars": 1573
+            "stars": 1573,
+            "topics": [
+              "deserialization",
+              "hydration",
+              "json",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2135,12 +3382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "x2js - XML to JSON and back for JavaScript",
+            "homepage": null,
             "id": 7830856,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-24T17:21:06Z",
+            "open_issues": 57,
             "owner": "abdolence",
             "repo": "x2js",
-            "stars": 1004
+            "stars": 1004,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2151,12 +3403,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "convert osm to geojson",
+            "homepage": "http://tyrasd.github.io/osmtogeojson/",
             "id": 13296600,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T02:49:39Z",
+            "open_issues": 59,
             "owner": "tyrasd",
             "repo": "osmtogeojson",
-            "stars": 750
+            "stars": 750,
+            "topics": [
+              "geojson",
+              "javascript",
+              "openstreetmap",
+              "openstreetmap-data",
+              "overpass-turbo"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2167,12 +3430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON compressor and decompressor",
+            "homepage": null,
             "id": 13839761,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-11T20:13:20Z",
+            "open_issues": 22,
             "owner": "tcorral",
             "repo": "JSONC",
-            "stars": 652
+            "stars": 652,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2183,12 +3451,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JSON does not handle circular references. Now it does",
+            "homepage": null,
             "id": 8754428,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-27T19:08:01Z",
+            "open_issues": 0,
             "owner": "WebReflection",
             "repo": "circular-json",
-            "stars": 608
+            "stars": 608,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2199,12 +3472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform (reformat) JSON structures from one to another using JavaScript",
+            "homepage": null,
             "id": 2968409,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2021-07-26T10:15:05Z",
+            "open_issues": 5,
             "owner": "joelvh",
             "repo": "json2json",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2215,12 +3493,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object transformer",
+            "homepage": null,
             "id": 13666876,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-12-21T07:56:51Z",
+            "open_issues": 1,
             "owner": "gabesoft",
             "repo": "trans",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "javascript",
+              "objects",
+              "trans",
+              "transform",
+              "transformation-methods"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2231,12 +3520,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[UNMAINTAINED] A Sass API for JSON.",
+            "homepage": "http://hugogiraudel.com/SassyJSON",
             "id": 15866905,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2021-03-05T13:41:06Z",
+            "open_issues": 5,
             "owner": "KittyGiraudel",
             "repo": "SassyJSON",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2247,12 +3541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for populating JSON data with circular references. Sort of like Falcor and GraphQL, but for plain JSON with a transparent interface.",
+            "homepage": null,
             "id": 97383508,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-02T20:31:30Z",
+            "open_issues": 0,
             "owner": "eiriklv",
             "repo": "json-populate",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2263,12 +3562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A recursive, pattern-matching, approach to transforming JSON structures.",
+            "homepage": null,
             "id": 61737848,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-27T08:22:09Z",
+            "open_issues": 8,
             "owner": "ColinEberhardt",
             "repo": "json-transforms",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2279,12 +3583,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sawmill is a JSON transformation Java library",
+            "homepage": null,
             "id": 69273058,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T13:07:43Z",
+            "open_issues": 16,
             "owner": "logzio",
             "repo": "sawmill",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "geoip",
+              "grok",
+              "json",
+              "maxmind",
+              "mustache",
+              "opensource",
+              "transformation",
+              "user-agent"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2295,12 +3613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS implementation of nimn specification",
+            "homepage": "https://solothought.com/nimn",
             "id": 122699409,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-14T11:49:28Z",
+            "open_issues": 0,
             "owner": "NaturalIntelligence",
             "repo": "nimnjs",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "compression",
+              "decoder",
+              "encoder",
+              "json",
+              "nimn",
+              "nimnjs"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2311,12 +3641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fanci is a lightweight node module to extract, rename and transform JSON based on a template",
+            "homepage": null,
             "id": 20078894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-06T12:16:28Z",
+            "open_issues": 1,
             "owner": "liip",
             "repo": "fanci",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2327,12 +3662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform JSON with JSON",
+            "homepage": null,
             "id": 25701454,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-03-30T00:50:53Z",
+            "open_issues": 0,
             "owner": "DoublePrecisionSoftware",
             "repo": "jsontl",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2343,12 +3683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript tool to process operations on pure JSON objects",
+            "homepage": null,
             "id": 43568048,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-28T17:01:43Z",
+            "open_issues": 0,
             "owner": "globocom",
             "repo": "json-sharp",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2359,12 +3704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write JSON as CSS",
+            "homepage": null,
             "id": 328255546,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-12T01:26:02Z",
+            "open_issues": 0,
             "owner": "cruel-intentions",
             "repo": "stylops",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2381,12 +3731,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.",
+            "homepage": "https://daseldocs.tomwright.me",
             "id": 297615696,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T19:25:05Z",
+            "open_issues": 25,
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8027
+            "stars": 8028,
+            "topics": [
+              "cli",
+              "config",
+              "configuration",
+              "data-processing",
+              "data-structures",
+              "data-wrangling",
+              "devops-tools",
+              "go",
+              "golang",
+              "hcl2",
+              "json",
+              "json-processing",
+              "parser",
+              "query",
+              "selector",
+              "toml",
+              "update",
+              "xml",
+              "yaml",
+              "yaml-processor"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2397,12 +3773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS-like selectors for JSON",
+            "homepage": "http://jsonselect.org",
             "id": 1743096,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2021-08-31T16:43:14Z",
+            "open_issues": 46,
             "owner": "lloyd",
             "repo": "JSONSelect",
-            "stars": 1588
+            "stars": 1588,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2413,12 +3794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny language and engine for selecting specific parts of a JS object, hiding the rest.",
+            "homepage": null,
             "id": 11362272,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-18T21:16:09Z",
+            "open_issues": 4,
             "owner": "nemtsov",
             "repo": "json-mask",
-            "stars": 871
+            "stars": 871,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2429,12 +3815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for filtering JavaScript objects based on a json SQL-like language, jsql",
+            "homepage": null,
             "id": 2190636,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-19T16:10:55Z",
+            "open_issues": 10,
             "owner": "deitch",
             "repo": "searchjs",
-            "stars": 309
+            "stars": 309,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2445,12 +3836,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag: Transparent query, pointer and path descriptors for JSON",
+            "homepage": null,
             "id": 56906724,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-05T10:36:18Z",
+            "open_issues": 6,
             "owner": "slurmulon",
             "repo": "json-where",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "find",
+              "json",
+              "match",
+              "pattern",
+              "query",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2467,12 +3870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Schema Based Editor",
+            "homepage": null,
             "id": 14673229,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-18T13:46:26Z",
+            "open_issues": 455,
             "owner": "jdorn",
             "repo": "json-editor",
-            "stars": 5819
+            "stars": 5819,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2483,12 +3891,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate forms from a JSON schema, with AngularJS! ",
+            "homepage": "https://json-schema-form.github.io/angular-schema-form",
             "id": 18065797,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-20T16:22:31Z",
+            "open_issues": 128,
             "owner": "json-schema-form",
             "repo": "angular-schema-form",
-            "stars": 2454
+            "stars": 2454,
+            "topics": [
+              "angular",
+              "angular-schema-form",
+              "json-schema",
+              "json-schema-form",
+              "json-ui-schema"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2499,12 +3918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AngularJS directive for rendering JSON Schema in HTML",
+            "homepage": "http://azimi.me/json-schema-view/demo/demo.html",
             "id": 24870067,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-13T19:03:46Z",
+            "open_issues": 2,
             "owner": "mohsen1",
             "repo": "json-schema-view",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2515,12 +3939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular directive for making forms out of JSON Schema",
+            "homepage": "http://azimi.me/angular-json-schema-form/demo/demo.html",
             "id": 30139211,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-07-12T13:15:05Z",
+            "open_issues": 6,
             "owner": "mohsen1",
             "repo": "angular-json-schema-form",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2537,12 +3966,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc",
+            "homepage": "http://www.jsonschema2pojo.org",
             "id": 10873724,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-02T01:04:21Z",
+            "open_issues": 250,
             "owner": "joelittlejohn",
             "repo": "jsonschema2pojo",
-            "stars": 6382
+            "stars": 6382,
+            "topics": [
+              "gradle-plugin",
+              "gson",
+              "jackson",
+              "java",
+              "json",
+              "json-schema",
+              "maven-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2553,12 +3995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON-Schema + fake data generators",
+            "homepage": "http://json-schema-faker.js.org/",
             "id": 24914297,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T07:34:04Z",
+            "open_issues": 0,
             "owner": "json-schema-faker",
             "repo": "json-schema-faker",
-            "stars": 3448
+            "stars": 3448,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2569,12 +4016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Schema tools and doc generation for HTTP APIs",
+            "homepage": null,
             "id": 15318526,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-02-06T16:33:27Z",
+            "open_issues": 75,
             "owner": "interagent",
             "repo": "prmd",
-            "stars": 2089
+            "stars": 2089,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2585,12 +4037,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse, Resolve, and Dereference JSON Schema $ref pointers in Node and browsers",
+            "homepage": "http://apidevtools.com/json-schema-ref-parser/",
             "id": 39041446,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T05:19:41Z",
+            "open_issues": 0,
             "owner": "APIDevTools",
             "repo": "json-schema-ref-parser",
-            "stars": 1113
+            "stars": 1113,
+            "topics": [
+              "javascript",
+              "json-pointer",
+              "json-reference",
+              "json-schema",
+              "nodejs",
+              "openapi",
+              "parser",
+              "resolver",
+              "universal-javascript"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2601,12 +4068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.",
+            "homepage": null,
             "id": 30894091,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-30T21:06:17Z",
+            "open_issues": 33,
             "owner": "nijikokun",
             "repo": "generate-schema",
-            "stars": 1073
+            "stars": 1073,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2617,12 +4089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation for your JSON types",
+            "homepage": null,
             "id": 14903365,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-05T00:43:36Z",
+            "open_issues": 44,
             "owner": "lbovet",
             "repo": "docson",
-            "stars": 497
+            "stars": 497,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2633,12 +4110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and intuitive schema validator",
+            "homepage": "http://molnarg.github.com/js-schema/",
             "id": 4457488,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-23T19:37:02Z",
+            "open_issues": 21,
             "owner": "molnarg",
             "repo": "js-schema",
-            "stars": 386
+            "stars": 386,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2649,12 +4131,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines",
+            "homepage": null,
             "id": 802599802,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T17:43:55Z",
+            "open_issues": 28,
             "owner": "sourcemeta",
             "repo": "jsonschema",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "asyncapi",
+              "cpp",
+              "json",
+              "json-schema",
+              "json-schemas",
+              "jsonschema",
+              "openapi",
+              "schema",
+              "schemas",
+              "schemastore",
+              "tooling",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2665,12 +4165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The reference implementation of orderly: a schema language for JSON.",
+            "homepage": "http://orderly-json.org",
             "id": 327499,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2010-03-10T21:20:35Z",
+            "open_issues": 9,
             "owner": "lloyd",
             "repo": "orderly",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2681,12 +4186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated HTML documentation for JSON schemas",
+            "homepage": null,
             "id": 4309438,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-14T12:27:28Z",
+            "open_issues": 3,
             "owner": "mattyod",
             "repo": "matic",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2697,12 +4207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gets you a JSON Schema from PostgreSQL or SQLite3. Also supports arrays and default values. Use it for introspection or preparing your domain models like with Rails's Active Record.",
+            "homepage": null,
             "id": 13323241,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-01-22T22:35:29Z",
+            "open_issues": 0,
             "owner": "moll",
             "repo": "js-ddl",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2719,12 +4234,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)",
+            "homepage": "https://ajv.js.org",
             "id": 35914020,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T07:38:47Z",
+            "open_issues": 376,
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14815
+            "stars": 14814,
+            "topics": [
+              "ajv",
+              "json-schema",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2735,12 +4259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny Validator for JSON Schema v4",
+            "homepage": "http://geraintluff.github.io/tv4/",
             "id": 7738366,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-12T20:22:58Z",
+            "open_issues": 116,
             "owner": "geraintluff",
             "repo": "tv4",
-            "stars": 1166
+            "stars": 1166,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2751,12 +4280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSONSchema validator that uses code generation to be extremely fast",
+            "homepage": null,
             "id": 22483459,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:33:41Z",
+            "open_issues": 55,
             "owner": "mafintosh",
             "repo": "is-my-json-valid",
-            "stars": 963
+            "stars": 963,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2767,12 +4301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarks for Node.js JSON-schema validators",
+            "homepage": null,
             "id": 29967599,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-04T03:06:14Z",
+            "open_issues": 16,
             "owner": "ebdrup",
             "repo": "json-schema-benchmark",
-            "stars": 387
+            "stars": 387,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2783,12 +4322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Schema validator written in JavaScript for NodeJS and Browsers",
+            "homepage": null,
             "id": 11597304,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T08:44:40Z",
+            "open_issues": 0,
             "owner": "zaggino",
             "repo": "z-schema",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2799,12 +4343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript Library for Schema Validation",
+            "homepage": null,
             "id": 13336001,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-06T19:00:48Z",
+            "open_issues": 18,
             "owner": "acornejo",
             "repo": "jjv",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2815,12 +4364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Schema Compiled checK",
+            "homepage": null,
             "id": 13079552,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-07-21T19:54:54Z",
+            "open_issues": 16,
             "owner": "pandastrike",
             "repo": "jsck",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2831,12 +4385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON-Schema validator built for speed",
+            "homepage": null,
             "id": 30349634,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-16T22:05:17Z",
+            "open_issues": 7,
             "owner": "bugventure",
             "repo": "jsen",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2847,12 +4406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazing fast JSON Schema v4 validator!",
+            "homepage": null,
             "id": 25862018,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2015-10-27T03:50:01Z",
+            "open_issues": 11,
             "owner": "playlyfe",
             "repo": "themis",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2863,12 +4427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible, JSON Schema-based request validator middleware for express and connect.",
+            "homepage": null,
             "id": 25270852,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-05-22T12:56:44Z",
+            "open_issues": 1,
             "owner": "bugventure",
             "repo": "request-validator",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2879,12 +4448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medeia JSON-Schema Validator",
+            "homepage": null,
             "id": 171952948,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-20T22:41:17Z",
+            "open_issues": 23,
             "owner": "worldturner",
             "repo": "medeia-validator",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2895,12 +4469,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Schema for PHP",
+            "homepage": "https://jsonrainbow.github.io/docs/",
             "id": 1485595,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-21T11:30:43Z",
+            "open_issues": 20,
             "owner": "jsonrainbow",
             "repo": "json-schema",
-            "stars": 3629
+            "stars": 3630,
+            "topics": [
+              "json",
+              "schema"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2911,12 +4493,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of the JSON Schema specification for Python",
+            "homepage": "https://python-jsonschema.readthedocs.io",
             "id": 3072629,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:07:40Z",
+            "open_issues": 61,
             "owner": "python-jsonschema",
             "repo": "jsonschema",
-            "stars": 4977
+            "stars": 4977,
+            "topics": [
+              "json",
+              "json-schema",
+              "jsonschema",
+              "schema",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2927,12 +4520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programmatic building of JSON schemas (document and field mappings) with validation.",
+            "homepage": "http://www.petrounias.org/software/json-schema-toolkit/",
             "id": 10714550,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-03-29T17:50:33Z",
+            "open_issues": 4,
             "owner": "petrounias",
             "repo": "json-schema-toolkit",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         },
@@ -2943,12 +4541,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby JSON Schema Validator",
+            "homepage": null,
             "id": 1110217,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-05T10:18:48Z",
+            "open_issues": 105,
             "owner": "voxpupuli",
             "repo": "json-schema",
-            "stars": 1643
+            "stars": 1643,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
         }
@@ -2957,15 +4562,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:11:11.344Z",
+    "last_updated": "2026-08-29T04:28:41.125Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome JSON libraries and resources.",
+      "homepage": null,
       "id": 33020765,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-19T12:25:07Z",
+      "open_issues": 97,
       "owner": "burningtree",
       "repo": "awesome-json",
-      "stars": 1564
+      "stars": 1565,
+      "topics": [
+        "awesome-list",
+        "json"
+      ]
     },
     "original_repository_sha": "e8efe3cf3b25bd9d23d857a24c41d21d69b9ea38",
     "enhanced_repository": "enhansome/enhansome-json",
