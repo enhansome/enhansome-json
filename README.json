@@ -72,7 +72,7 @@
             "open_issues": 0,
             "owner": "callumlocke",
             "repo": "json-formatter",
-            "stars": 4128,
+            "stars": 4129,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -298,7 +298,7 @@
                 "open_issues": 22,
                 "owner": "01mf02",
                 "repo": "jaq",
-                "stars": 3735,
+                "stars": 3739,
                 "topics": [
                   "jq",
                   "json",
@@ -317,10 +317,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
-            "open_issues": 473,
+            "open_issues": 474,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35514,
+            "stars": 35520,
             "topics": [
               "jq"
             ]
@@ -369,7 +369,7 @@
             "open_issues": 50,
             "owner": "tomnomnom",
             "repo": "gron",
-            "stars": 14499,
+            "stars": 14500,
             "topics": [
               "cli",
               "json"
@@ -393,7 +393,7 @@
             "open_issues": 80,
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9257,
+            "stars": 9258,
             "topics": [
               "cli",
               "csv",
@@ -877,7 +877,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75696,
+            "stars": 75692,
             "topics": [
               "api",
               "fake",
@@ -1024,11 +1024,11 @@
             "id": 6427744,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-08-25T08:56:06Z",
+            "last_commit": "2026-08-30T12:04:25Z",
             "open_issues": 35,
             "owner": "Softmotions",
             "repo": "ejdb",
-            "stars": 1479,
+            "stars": 1480,
             "topics": [
               "android",
               "c",
@@ -1715,8 +1715,8 @@
             "id": 11171548,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:49:22Z",
-            "open_issues": 140,
+            "last_commit": "2026-08-30T21:01:46Z",
+            "open_issues": 141,
             "owner": "nlohmann",
             "repo": "json",
             "stars": 50489,
@@ -1760,7 +1760,7 @@
             "open_issues": 134,
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24214,
+            "stars": 24216,
             "topics": [
               "aarch64",
               "arm64",
@@ -1799,7 +1799,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-02-05T13:28:08Z",
-            "open_issues": 790,
+            "open_issues": 791,
             "owner": "Tencent",
             "repo": "rapidjson",
             "stars": 15119,
@@ -2042,7 +2042,7 @@
             "open_issues": 340,
             "owner": "google",
             "repo": "gson",
-            "stars": 24227,
+            "stars": 24228,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -2164,7 +2164,7 @@
             "open_issues": 19,
             "owner": "bolerio",
             "repo": "mjson",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -2230,7 +2230,7 @@
             "open_issues": 119,
             "owner": "jimhigson",
             "repo": "oboe.js",
-            "stars": 4817,
+            "stars": 4816,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -2650,8 +2650,8 @@
             "id": 104897792,
             "language": "Scala",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:34:25Z",
-            "open_issues": 99,
+            "last_commit": "2026-08-30T07:10:48Z",
+            "open_issues": 98,
             "owner": "plokhotnyuk",
             "repo": "jsoniter-scala",
             "stars": 819,
@@ -2713,7 +2713,7 @@
             "open_issues": 139,
             "owner": "SwiftyJSON",
             "repo": "SwiftyJSON",
-            "stars": 22950,
+            "stars": 22951,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2745,7 +2745,7 @@
             "open_issues": 41,
             "owner": "ibireme",
             "repo": "yyjson",
-            "stars": 3853,
+            "stars": 3854,
             "topics": [
               "ansi-c",
               "c",
@@ -2847,7 +2847,7 @@
             "id": 636602722,
             "language": "C",
             "license": null,
-            "last_commit": "2026-08-29T17:18:48Z",
+            "last_commit": "2026-08-30T09:24:15Z",
             "open_issues": 3,
             "owner": "clairey-zx81",
             "repo": "json-model",
@@ -2874,7 +2874,7 @@
             "id": 8385616,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T21:43:43Z",
+            "last_commit": "2026-08-30T16:24:51Z",
             "open_issues": 8,
             "owner": "toml-lang",
             "repo": "toml",
@@ -2921,7 +2921,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-08-27T15:56:59Z",
-            "open_issues": 235,
+            "open_issues": 236,
             "owner": "hashicorp",
             "repo": "hcl",
             "stars": 5799,
@@ -3155,7 +3155,7 @@
             "open_issues": 53,
             "owner": "nst",
             "repo": "JSONTestSuite",
-            "stars": 1164,
+            "stars": 1166,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -3193,7 +3193,7 @@
             "id": 3296177,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T04:52:29Z",
+            "last_commit": "2026-08-31T02:05:36Z",
             "open_issues": 14,
             "owner": "lukas-krecan",
             "repo": "JsonUnit",
@@ -4001,7 +4001,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-01T07:34:04Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "json-schema-faker",
             "repo": "json-schema-faker",
             "stars": 3448,
@@ -4140,7 +4140,7 @@
             "open_issues": 29,
             "owner": "sourcemeta",
             "repo": "jsonschema",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "asyncapi",
               "cpp",
@@ -4243,7 +4243,7 @@
             "open_issues": 376,
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14818,
+            "stars": 14819,
             "topics": [
               "ajv",
               "json-schema",
@@ -4475,10 +4475,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-21T11:30:43Z",
-            "open_issues": 20,
+            "open_issues": 24,
             "owner": "jsonrainbow",
             "repo": "json-schema",
-            "stars": 3630,
+            "stars": 3631,
             "topics": [
               "json",
               "schema"
@@ -4562,7 +4562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:46:27.539Z",
+    "last_updated": "2026-08-31T06:05:01.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JSON libraries and resources.",
@@ -4571,7 +4571,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-19T12:25:07Z",
-      "open_issues": 97,
+      "open_issues": 98,
       "owner": "burningtree",
       "repo": "awesome-json",
       "stars": 1565,
