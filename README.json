@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "Ahmed-Ali",
             "repo": "JSONExport",
-            "stars": 4805,
+            "stars": 4803,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -268,7 +268,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:34:28Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "itchyny",
                 "repo": "gojq",
                 "stars": 3796,
@@ -298,7 +298,7 @@
                 "open_issues": 23,
                 "owner": "01mf02",
                 "repo": "jaq",
-                "stars": 3742,
+                "stars": 3743,
                 "topics": [
                   "jq",
                   "json",
@@ -320,7 +320,7 @@
             "open_issues": 477,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35552,
+            "stars": 35554,
             "topics": [
               "jq"
             ]
@@ -343,7 +343,7 @@
             "open_issues": 27,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20618,
+            "stars": 20619,
             "topics": [
               "cli",
               "command-line",
@@ -390,10 +390,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T00:09:56Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9261,
+            "stars": 9262,
             "topics": [
               "cli",
               "csv",
@@ -520,7 +520,7 @@
             "open_issues": 22,
             "owner": "multiprocessio",
             "repo": "dsq",
-            "stars": 3864,
+            "stars": 3865,
             "topics": [
               "cli",
               "csv",
@@ -548,7 +548,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2025-08-25T14:43:56Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "logdyhq",
             "repo": "logdy-core",
             "stars": 2285,
@@ -877,7 +877,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75703,
+            "stars": 75701,
             "topics": [
               "api",
               "fake",
@@ -906,7 +906,7 @@
             "open_issues": 20,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23373,
+            "stars": 23372,
             "topics": [
               "angular",
               "browser-database",
@@ -1171,7 +1171,7 @@
             "open_issues": 34,
             "owner": "jsonmodel",
             "repo": "jsonmodel",
-            "stars": 6807,
+            "stars": 6806,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -1250,10 +1250,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-14T22:54:47Z",
-            "open_issues": 55,
+            "open_issues": 54,
             "owner": "benjamine",
             "repo": "jsondiffpatch",
-            "stars": 5340,
+            "stars": 5339,
             "topics": [
               "delta",
               "diff",
@@ -1500,7 +1500,7 @@
             "open_issues": 39,
             "owner": "ngx-formly",
             "repo": "ngx-formly",
-            "stars": 2966,
+            "stars": 2967,
             "topics": [
               "angular",
               "bootstrap",
@@ -1537,7 +1537,7 @@
             "open_issues": 228,
             "owner": "alfajango",
             "repo": "jquery-dynatable",
-            "stars": 2751,
+            "stars": 2750,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -1715,11 +1715,11 @@
             "id": 11171548,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-03T18:36:04Z",
-            "open_issues": 147,
+            "last_commit": "2026-09-05T21:18:53Z",
+            "open_issues": 150,
             "owner": "nlohmann",
             "repo": "json",
-            "stars": 50538,
+            "stars": 50546,
             "topics": [
               "bson",
               "cbor",
@@ -1756,11 +1756,11 @@
             "id": 126412363,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:04:13Z",
-            "open_issues": 135,
+            "last_commit": "2026-09-05T15:07:42Z",
+            "open_issues": 134,
             "owner": "simdjson",
             "repo": "simdjson",
-            "stars": 24236,
+            "stars": 24235,
             "topics": [
               "aarch64",
               "arm64",
@@ -1802,7 +1802,7 @@
             "open_issues": 792,
             "owner": "Tencent",
             "repo": "rapidjson",
-            "stars": 15121,
+            "stars": 15122,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -2039,7 +2039,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T03:08:28Z",
-            "open_issues": 345,
+            "open_issues": 347,
             "owner": "google",
             "repo": "gson",
             "stars": 24234,
@@ -2292,7 +2292,7 @@
             "open_issues": 103,
             "owner": "johnezang",
             "repo": "JSONKit",
-            "stars": 6175,
+            "stars": 6174,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -2439,7 +2439,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T16:45:29Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "simplejson",
             "repo": "simplejson",
             "stars": 1710,
@@ -2651,7 +2651,7 @@
             "language": "Scala",
             "license": "MIT",
             "last_commit": "2026-09-04T08:24:29Z",
-            "open_issues": 100,
+            "open_issues": 99,
             "owner": "plokhotnyuk",
             "repo": "jsoniter-scala",
             "stars": 819,
@@ -2713,7 +2713,7 @@
             "open_issues": 139,
             "owner": "SwiftyJSON",
             "repo": "SwiftyJSON",
-            "stars": 22949,
+            "stars": 22946,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2847,7 +2847,7 @@
             "id": 636602722,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-04T08:56:44Z",
+            "last_commit": "2026-09-05T17:38:08Z",
             "open_issues": 3,
             "owner": "clairey-zx81",
             "repo": "json-model",
@@ -2878,7 +2878,7 @@
             "open_issues": 8,
             "owner": "toml-lang",
             "repo": "toml",
-            "stars": 20603,
+            "stars": 20604,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -2899,7 +2899,7 @@
             "open_issues": 242,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6312,
+            "stars": 6313,
             "topics": [
               "configuration-library",
               "hocon",
@@ -3092,10 +3092,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-17T09:15:04Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "jqlang",
             "repo": "awesome-jq",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "awesome",
               "jq"
@@ -3323,7 +3323,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-03T00:15:35Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "NaturalIntelligence",
             "repo": "fast-xml-parser",
             "stars": 3137,
@@ -3782,7 +3782,7 @@
             "open_issues": 46,
             "owner": "lloyd",
             "repo": "JSONSelect",
-            "stars": 1588,
+            "stars": 1589,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:11.344Z"
@@ -4042,7 +4042,7 @@
             "id": 39041446,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T05:19:41Z",
+            "last_commit": "2026-09-06T02:36:20Z",
             "open_issues": 0,
             "owner": "APIDevTools",
             "repo": "json-schema-ref-parser",
@@ -4136,8 +4136,8 @@
             "id": 802599802,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T23:07:04Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-06T00:03:11Z",
+            "open_issues": 32,
             "owner": "sourcemeta",
             "repo": "jsonschema",
             "stars": 302,
@@ -4239,11 +4239,11 @@
             "id": 35914020,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-05-12T07:38:47Z",
+            "last_commit": "2026-09-05T18:40:23Z",
             "open_issues": 376,
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14821,
+            "stars": 14822,
             "topics": [
               "ajv",
               "json-schema",
@@ -4474,8 +4474,8 @@
             "id": 1485595,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-04T15:49:09Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-05T16:21:26Z",
+            "open_issues": 18,
             "owner": "jsonrainbow",
             "repo": "json-schema",
             "stars": 3632,
@@ -4562,7 +4562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:55:24.529Z",
+    "last_updated": "2026-09-06T05:03:45.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JSON libraries and resources.",
@@ -4571,7 +4571,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-19T12:25:07Z",
-      "open_issues": 100,
+      "open_issues": 102,
       "owner": "burningtree",
       "repo": "awesome-json",
       "stars": 1564,
