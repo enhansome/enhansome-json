@@ -3740,7 +3740,7 @@
             "open_issues": 25,
             "owner": "TomWright",
             "repo": "dasel",
-            "stars": 8044,
+            "stars": 8045,
             "topics": [
               "cli",
               "config",
@@ -4243,7 +4243,7 @@
             "open_issues": 382,
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14847,
+            "stars": 14848,
             "topics": [
               "ajv",
               "json-schema",
@@ -4562,7 +4562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:50.458Z",
+    "last_updated": "2026-10-03T05:42:26.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JSON libraries and resources.",
